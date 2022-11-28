@@ -1,0 +1,9 @@
+* 2020-10-05 Point snapping is disabled in all datasets, number of decimals increased for 01M datasets.
+* 2020-11-18 Inclusion of Jan Mayen and Svalbard in to Norways Statistical Regions. Amendment to Serbia NUTS BN line status.
+* 2020-12-05 Fixed broken utf-8 encoding.
+* 2021-03-15 Added LAU 2011,2012,2013,2014,2015,2020
+* 2021-04-26 Fixed country labels 2001, 2006 (incorrect Kosovo coordinates)
+* 2021-09-01 NUTS boundaries for the Serbia/Kosovo can now be identified by NUTS_BN_ID > 1000000.
+* 2021-10-20 Coastal flags edited.
+* 2021-11-29 Leading/trailing whitespaces in NUTS names fixed.
+* 2022-02-25 Fixed NUTS label position for NO0 and NO in NUTS 2016 and NUTS 2021.

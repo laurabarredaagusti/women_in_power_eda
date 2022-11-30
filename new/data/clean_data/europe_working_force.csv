@@ -1,0 +1,2137 @@
+,Country,Work_type,Year,Value,Gender
+0,European Union,total,2019,87324.7,males
+4,Belgium,total,2019,2124.5,males
+5,Bulgaria,total,2019,1470.3,males
+6,Czechia,total,2019,2312.9,males
+7,Denmark,total,2019,1323.0,males
+8,Germany (until 1990 former territory of the FRG),total,2019,19751.9,males
+9,Estonia,total,2019,285.0,males
+10,Ireland,total,2019,996.5,males
+11,Greece,total,2019,1435.7,males
+12,Spain,total,2019,8711.6,males
+13,France,total,2019,11725.4,males
+14,Croatia,total,2019,762.5,males
+15,Italy,total,2019,9779.3,males
+16,Cyprus,total,2019,183.0,males
+17,Latvia,total,2019,373.2,males
+18,Lithuania,total,2019,561.2,males
+19,Luxembourg,total,2019,140.0,males
+20,Hungary,total,2019,2123.3,males
+21,Malta,total,2019,124.8,males
+22,Netherlands,total,2019,3743.6,males
+23,Austria,total,2019,1976.9,males
+24,Poland,total,2019,6890.2,males
+25,Portugal,total,2019,1945.1,males
+26,Romania,total,2019,3679.3,males
+27,Slovenia,total,2019,440.6,males
+28,Slovakia,total,2019,1134.5,males
+29,Finland,total,2019,1072.9,males
+30,Sweden,total,2019,2257.6,males
+31,Iceland,total,2019,85.7,males
+32,Norway,total,2019,1278.0,males
+33,Switzerland,total,2019,2079.9,males
+34,United Kingdom,total,2019,13524.2,males
+35,Montenegro,total,2019,93.4,males
+36,North Macedonia,total,2019,368.5,males
+37,Serbia,total,2019,1117.2,males
+38,Turkey,total,2019,13475.3,males
+39,European Union,managers,2019,4406.3,males
+43,Belgium,managers,2019,190.3,males
+44,Bulgaria,managers,2019,45.7,males
+45,Czechia,managers,2019,114.1,males
+46,Denmark,managers,2019,49.8,males
+47,Germany (until 1990 former territory of the FRG),managers,2019,1081.8,males
+48,Estonia,managers,2019,20.6,males
+49,Ireland,managers,2019,77.7,males
+50,Greece,managers,2019,26.5,males
+51,Spain,managers,2019,239.7,males
+52,France,managers,2019,1036.9,males
+53,Croatia,managers,2019,25.6,males
+54,Italy,managers,2019,140.6,males
+55,Cyprus,managers,2019,11.4,males
+56,Latvia,managers,2019,28.9,males
+57,Lithuania,managers,2019,59.4,males
+58,Luxembourg,managers,2019,3.7,males
+59,Hungary,managers,2019,69.0,males
+60,Malta,managers,2019,14.1,males
+61,Netherlands,managers,2019,231.2,males
+62,Austria,managers,2019,119.8,males
+63,Poland,managers,2019,386.4,males
+64,Portugal,managers,2019,92.7,males
+65,Romania,managers,2019,80.0,males
+66,Slovenia,managers,2019,24.9,males
+67,Finland,managers,2019,34.2,males
+68,Sweden,managers,2019,146.3,males
+69,Iceland,managers,2019,11.0,males
+70,Norway,managers,2019,127.9,males
+71,Switzerland,managers,2019,177.6,males
+72,United Kingdom,managers,2019,1856.3,males
+73,Montenegro,managers,2019,2.0,males
+74,North Macedonia,managers,2019,5.9,males
+75,Serbia,managers,2019,26.8,males
+76,Turkey,managers,2019,622.1,males
+77,European Union,professionals,2019,14266.0,males
+81,Belgium,professionals,2019,421.8,males
+82,Bulgaria,professionals,2019,163.4,males
+83,Czechia,professionals,2019,312.9,males
+84,Denmark,professionals,2019,321.4,males
+85,Germany (until 1990 former territory of the FRG),professionals,2019,3493.8,males
+86,Estonia,professionals,2019,42.6,males
+87,Ireland,professionals,2019,224.7,males
+88,Greece,professionals,2019,232.6,males
+89,Spain,professionals,2019,1262.7,males
+90,France,professionals,2019,1994.1,males
+91,Croatia,professionals,2019,79.3,males
+92,Italy,professionals,2019,1001.6,males
+93,Cyprus,professionals,2019,26.8,males
+94,Latvia,professionals,2019,44.9,males
+95,Lithuania,professionals,2019,98.6,males
+96,Luxembourg,professionals,2019,57.4,males
+97,Hungary,professionals,2019,299.1,males
+98,Malta,professionals,2019,21.2,males
+99,Netherlands,professionals,2019,960.0,males
+100,Austria,professionals,2019,311.0,males
+101,Poland,professionals,2019,972.3,males
+102,Portugal,professionals,2019,324.8,males
+103,Romania,professionals,2019,548.3,males
+104,Slovenia,professionals,2019,78.1,males
+105,Slovakia,professionals,2019,105.8,males
+106,Finland,professionals,2019,308.1,males
+107,Sweden,professionals,2019,559.0,males
+108,Iceland,professionals,2019,17.4,males
+109,Norway,professionals,2019,273.9,males
+110,Switzerland,professionals,2019,519.7,males
+111,United Kingdom,professionals,2019,3627.8,males
+112,Montenegro,professionals,2019,13.0,males
+113,North Macedonia,professionals,2019,49.2,males
+114,Serbia,professionals,2019,132.1,males
+115,Turkey,professionals,2019,1518.5,males
+116,European Union,technicians,2019,14311.1,males
+120,Belgium,technicians,2019,316.9,males
+121,Bulgaria,technicians,2019,142.9,males
+122,Czechia,technicians,2019,421.8,males
+123,Denmark,technicians,2019,263.2,males
+124,Germany (until 1990 former territory of the FRG),technicians,2019,3677.5,males
+125,Estonia,technicians,2019,39.0,males
+126,Ireland,technicians,2019,127.1,males
+127,Greece,technicians,2019,124.4,males
+128,Spain,technicians,2019,1172.8,males
+129,France,technicians,2019,2461.2,males
+130,Croatia,technicians,2019,129.8,males
+131,Italy,technicians,2019,1822.9,males
+132,Cyprus,technicians,2019,21.0,males
+133,Latvia,technicians,2019,49.3,males
+134,Lithuania,technicians,2019,43.1,males
+135,Luxembourg,technicians,2019,19.7,males
+136,Hungary,technicians,2019,225.8,males
+137,Malta,technicians,2019,20.4,males
+138,Netherlands,technicians,2019,582.8,males
+139,Austria,technicians,2019,371.5,males
+140,Poland,technicians,2019,876.5,males
+141,Portugal,technicians,2019,257.6,males
+142,Romania,technicians,2019,251.2,males
+143,Slovenia,technicians,2019,60.4,males
+144,Slovakia,technicians,2019,170.4,males
+145,Finland,technicians,2019,187.4,males
+146,Sweden,technicians,2019,474.4,males
+147,Iceland,technicians,2019,10.9,males
+148,Norway,technicians,2019,227.7,males
+149,Switzerland,technicians,2019,368.3,males
+150,United Kingdom,technicians,2019,1694.2,males
+151,Montenegro,technicians,2019,14.1,males
+152,North Macedonia,technicians,2019,40.6,males
+153,Serbia,technicians,2019,140.1,males
+154,Turkey,technicians,2019,1071.5,males
+155,European Union,clerical_support,2019,6103.9,males
+159,Belgium,clerical_support,2019,203.4,males
+160,Bulgaria,clerical_support,2019,50.6,males
+161,Czechia,clerical_support,2019,92.0,males
+162,Denmark,clerical_support,2019,56.3,males
+163,Germany (until 1990 former territory of the FRG),clerical_support,2019,1720.8,males
+164,Estonia,clerical_support,2019,13.2,males
+165,Ireland,clerical_support,2019,51.1,males
+166,Greece,clerical_support,2019,171.5,males
+167,Spain,clerical_support,2019,667.0,males
+168,France,clerical_support,2019,569.5,males
+169,Croatia,clerical_support,2019,52.5,males
+170,Italy,clerical_support,2019,913.8,males
+171,Cyprus,clerical_support,2019,10.9,males
+172,Latvia,clerical_support,2019,11.7,males
+173,Lithuania,clerical_support,2019,18.7,males
+174,Luxembourg,clerical_support,2019,9.3,males
+175,Hungary,clerical_support,2019,83.0,males
+176,Malta,clerical_support,2019,11.4,males
+177,Netherlands,clerical_support,2019,297.6,males
+178,Austria,clerical_support,2019,125.3,males
+179,Poland,clerical_support,2019,433.8,males
+180,Portugal,clerical_support,2019,158.0,males
+181,Romania,clerical_support,2019,126.3,males
+182,Slovenia,clerical_support,2019,34.0,males
+183,Finland,clerical_support,2019,35.6,males
+184,Sweden,clerical_support,2019,113.9,males
+185,Iceland,clerical_support,2019,,males
+186,Norway,clerical_support,2019,62.4,males
+187,Switzerland,clerical_support,2019,210.1,males
+188,United Kingdom,clerical_support,2019,865.2,males
+189,Montenegro,clerical_support,2019,8.0,males
+190,North Macedonia,clerical_support,2019,24.1,males
+191,Serbia,clerical_support,2019,92.5,males
+192,Turkey,clerical_support,2019,1064.8,males
+193,European Union,total,2019,167909.5,total
+197,Belgium,total,2019,4157.1,total
+198,Bulgaria,total,2019,2801.1,total
+199,Czechia,total,2019,4331.6,total
+200,Denmark,total,2019,2581.9,total
+201,Germany (until 1990 former territory of the FRG),total,2019,37985.4,total
+202,Estonia,total,2019,571.5,total
+203,Ireland,total,2019,1976.4,total
+204,Greece,total,2019,2635.9,total
+205,Spain,total,2019,16742.3,total
+206,France,total,2019,23656.0,total
+207,Croatia,total,2019,1475.1,total
+208,Italy,total,2019,17852.9,total
+209,Cyprus,total,2019,358.7,total
+210,Latvia,total,2019,772.2,total
+211,Lithuania,total,2019,1175.3,total
+212,Luxembourg,total,2019,262.1,total
+213,Hungary,total,2019,3959.3,total
+214,Malta,total,2019,217.3,total
+215,Netherlands,total,2019,7349.4,total
+216,Austria,total,2019,3817.1,total
+217,Poland,total,2019,12972.8,total
+218,Portugal,total,2019,4003.2,total
+219,Romania,total,2019,6562.7,total
+220,Slovenia,total,2019,856.1,total
+221,Slovakia,total,2019,2173.1,total
+222,Finland,total,2019,2166.7,total
+223,Sweden,total,2019,4496.3,total
+224,Iceland,total,2019,168.5,total
+225,Norway,total,2019,2474.0,total
+226,Switzerland,total,2019,3986.7,total
+227,United Kingdom,total,2019,26909.8,total
+228,Montenegro,total,2019,185.9,total
+229,North Macedonia,total,2019,647.4,total
+230,Serbia,total,2019,2097.9,total
+231,Turkey,total,2019,19394.8,total
+232,European Union,managers,2019,7033.4,total
+236,Belgium,managers,2019,300.1,total
+237,Bulgaria,managers,2019,95.9,total
+238,Czechia,managers,2019,163.9,total
+239,Denmark,managers,2019,70.8,total
+240,Germany (until 1990 former territory of the FRG),managers,2019,1588.2,total
+241,Estonia,managers,2019,40.5,total
+242,Ireland,managers,2019,129.3,total
+243,Greece,managers,2019,38.2,total
+244,Spain,managers,2019,390.1,total
+245,France,managers,2019,1656.7,total
+246,Croatia,managers,2019,33.7,total
+247,Italy,managers,2019,201.2,total
+248,Cyprus,managers,2019,14.5,total
+249,Latvia,managers,2019,59.3,total
+250,Lithuania,managers,2019,100.5,total
+251,Luxembourg,managers,2019,5.9,total
+252,Hungary,managers,2019,118.9,total
+253,Malta,managers,2019,21.9,total
+254,Netherlands,managers,2019,338.4,total
+255,Austria,managers,2019,183.3,total
+256,Poland,managers,2019,729.2,total
+257,Portugal,managers,2019,157.9,total
+258,Romania,managers,2019,125.9,total
+259,Slovenia,managers,2019,47.5,total
+260,Finland,managers,2019,58.8,total
+261,Sweden,managers,2019,270.7,total
+262,Iceland,managers,2019,20.1,total
+263,Norway,managers,2019,200.5,total
+264,Switzerland,managers,2019,276.4,total
+265,United Kingdom,managers,2019,3008.6,total
+266,Montenegro,managers,2019,3.5,total
+267,North Macedonia,managers,2019,8.9,total
+268,Serbia,managers,2019,42.2,total
+269,Turkey,managers,2019,822.9,total
+270,European Union,professionals,2019,32238.8,total
+274,Belgium,professionals,2019,1004.6,total
+275,Bulgaria,professionals,2019,479.3,total
+276,Czechia,professionals,2019,678.9,total
+277,Denmark,professionals,2019,745.0,total
+278,Germany (until 1990 former territory of the FRG),professionals,2019,6487.6,total
+279,Estonia,professionals,2019,119.0,total
+280,Ireland,professionals,2019,497.7,total
+281,Greece,professionals,2019,533.6,total
+282,Spain,professionals,2019,3137.0,total
+283,France,professionals,2019,4330.5,total
+284,Croatia,professionals,2019,270.9,total
+285,Italy,professionals,2019,2492.1,total
+286,Cyprus,professionals,2019,65.9,total
+287,Latvia,professionals,2019,146.8,total
+288,Lithuania,professionals,2019,304.2,total
+289,Luxembourg,professionals,2019,109.0,total
+290,Hungary,professionals,2019,673.8,total
+291,Malta,professionals,2019,42.4,total
+292,Netherlands,professionals,2019,1938.4,total
+293,Austria,professionals,2019,739.0,total
+294,Poland,professionals,2019,2834.3,total
+295,Portugal,professionals,2019,819.4,total
+296,Romania,professionals,2019,1291.7,total
+297,Slovenia,professionals,2019,203.7,total
+298,Slovakia,professionals,2019,290.7,total
+299,Finland,professionals,2019,617.8,total
+300,Sweden,professionals,2019,1385.6,total
+301,Iceland,professionals,2019,45.8,total
+302,Norway,professionals,2019,694.8,total
+303,Switzerland,professionals,2019,1043.4,total
+304,United Kingdom,professionals,2019,7378.9,total
+305,Montenegro,professionals,2019,36.7,total
+306,North Macedonia,professionals,2019,120.5,total
+307,Serbia,professionals,2019,347.0,total
+308,Turkey,professionals,2019,2969.8,total
+309,European Union,technicians,2019,29603.9,total
+313,Belgium,technicians,2019,613.1,total
+314,Bulgaria,technicians,2019,262.0,total
+315,Czechia,technicians,2019,784.3,total
+316,Denmark,technicians,2019,453.1,total
+317,Germany (until 1990 former territory of the FRG),technicians,2019,9082.9,total
+318,Estonia,technicians,2019,86.5,total
+319,Ireland,technicians,2019,252.4,total
+320,Greece,technicians,2019,263.3,total
+321,Spain,technicians,2019,2002.7,total
+322,France,technicians,2019,4995.3,total
+323,Croatia,technicians,2019,225.1,total
+324,Italy,technicians,2019,3160.4,total
+325,Cyprus,technicians,2019,43.0,total
+326,Latvia,technicians,2019,115.9,total
+327,Lithuania,technicians,2019,115.8,total
+328,Luxembourg,technicians,2019,43.2,total
+329,Hungary,technicians,2019,561.3,total
+330,Malta,technicians,2019,31.7,total
+331,Netherlands,technicians,2019,1269.4,total
+332,Austria,technicians,2019,672.4,total
+333,Poland,technicians,2019,1836.1,total
+334,Portugal,technicians,2019,462.2,total
+335,Romania,technicians,2019,521.8,total
+336,Slovenia,technicians,2019,114.5,total
+337,Slovakia,technicians,2019,344.3,total
+338,Finland,technicians,2019,439.0,total
+339,Sweden,technicians,2019,852.4,total
+340,Iceland,technicians,2019,20.9,total
+341,Norway,technicians,2019,388.7,total
+342,Switzerland,technicians,2019,714.4,total
+343,United Kingdom,technicians,2019,3577.9,total
+344,Montenegro,technicians,2019,32.2,total
+345,North Macedonia,technicians,2019,79.9,total
+346,Serbia,technicians,2019,307.9,total
+347,Turkey,technicians,2019,1510.3,total
+348,European Union,clerical_support,2019,18093.8,total
+352,Belgium,clerical_support,2019,505.8,total
+353,Bulgaria,clerical_support,2019,183.7,total
+354,Czechia,clerical_support,2019,441.3,total
+355,Denmark,clerical_support,2019,180.5,total
+356,Germany (until 1990 former territory of the FRG),clerical_support,2019,5048.8,total
+357,Estonia,clerical_support,2019,37.4,total
+358,Ireland,clerical_support,2019,201.4,total
+359,Greece,clerical_support,2019,421.1,total
+360,Spain,clerical_support,2019,2000.7,total
+361,France,clerical_support,2019,2151.1,total
+362,Croatia,clerical_support,2019,149.2,total
+363,Italy,clerical_support,2019,2592.3,total
+364,Cyprus,clerical_support,2019,42.5,total
+365,Latvia,clerical_support,2019,50.2,total
+366,Lithuania,clerical_support,2019,61.4,total
+367,Luxembourg,clerical_support,2019,20.8,total
+368,Hungary,clerical_support,2019,309.1,total
+369,Malta,clerical_support,2019,27.4,total
+370,Netherlands,clerical_support,2019,721.2,total
+371,Austria,clerical_support,2019,413.6,total
+372,Poland,clerical_support,2019,1019.0,total
+373,Portugal,clerical_support,2019,421.5,total
+374,Romania,clerical_support,2019,368.2,total
+375,Slovenia,clerical_support,2019,78.3,total
+376,Finland,clerical_support,2019,122.8,total
+377,Sweden,clerical_support,2019,287.6,total
+378,Iceland,clerical_support,2019,7.9,total
+379,Norway,clerical_support,2019,139.2,total
+380,Switzerland,clerical_support,2019,546.2,total
+381,United Kingdom,clerical_support,2019,2693.6,total
+382,Montenegro,clerical_support,2019,19.4,total
+383,North Macedonia,clerical_support,2019,47.7,total
+384,Serbia,clerical_support,2019,235.7,total
+385,Turkey,clerical_support,2019,1871.1,total
+386,European Union,total,2019,80584.8,females
+390,Belgium,total,2019,2032.6,females
+391,Bulgaria,total,2019,1330.9,females
+392,Czechia,total,2019,2018.8,females
+393,Denmark,total,2019,1258.8,females
+394,Germany (until 1990 former territory of the FRG),total,2019,18233.6,females
+395,Estonia,total,2019,286.6,females
+396,Ireland,total,2019,979.8,females
+397,Greece,total,2019,1200.2,females
+398,Spain,total,2019,8030.7,females
+399,France,total,2019,11930.6,females
+400,Croatia,total,2019,712.6,females
+401,Italy,total,2019,8073.6,females
+402,Cyprus,total,2019,175.7,females
+403,Latvia,total,2019,399.1,females
+404,Lithuania,total,2019,614.1,females
+405,Luxembourg,total,2019,122.1,females
+406,Hungary,total,2019,1836.0,females
+407,Malta,total,2019,92.5,females
+408,Netherlands,total,2019,3605.7,females
+409,Austria,total,2019,1840.2,females
+410,Poland,total,2019,6082.5,females
+411,Portugal,total,2019,2058.1,females
+412,Romania,total,2019,2883.4,females
+413,Slovenia,total,2019,415.5,females
+414,Slovakia,total,2019,1038.5,females
+415,Finland,total,2019,1093.9,females
+416,Sweden,total,2019,2238.6,females
+417,Iceland,total,2019,82.8,females
+418,Norway,total,2019,1196.0,females
+419,Switzerland,total,2019,1906.9,females
+420,United Kingdom,total,2019,13385.6,females
+421,Montenegro,total,2019,92.5,females
+422,North Macedonia,total,2019,278.9,females
+423,Serbia,total,2019,980.8,females
+424,Turkey,total,2019,5919.5,females
+425,European Union,managers,2019,2627.1,females
+429,Belgium,managers,2019,109.8,females
+430,Bulgaria,managers,2019,50.2,females
+431,Czechia,managers,2019,49.7,females
+432,Denmark,managers,2019,21.0,females
+433,Germany (until 1990 former territory of the FRG),managers,2019,506.4,females
+434,Estonia,managers,2019,20.0,females
+435,Ireland,managers,2019,51.7,females
+436,Greece,managers,2019,11.7,females
+437,Spain,managers,2019,150.4,females
+438,France,managers,2019,619.8,females
+439,Croatia,managers,2019,8.2,females
+440,Italy,managers,2019,60.6,females
+441,Cyprus,managers,2019,3.0,females
+442,Latvia,managers,2019,30.4,females
+443,Lithuania,managers,2019,41.1,females
+444,Luxembourg,managers,2019,2.2,females
+445,Hungary,managers,2019,49.9,females
+446,Malta,managers,2019,7.8,females
+447,Netherlands,managers,2019,107.2,females
+448,Austria,managers,2019,63.4,females
+449,Poland,managers,2019,342.8,females
+450,Portugal,managers,2019,65.2,females
+451,Romania,managers,2019,46.0,females
+452,Slovenia,managers,2019,22.6,females
+453,Finland,managers,2019,24.6,females
+454,Sweden,managers,2019,124.4,females
+455,Iceland,managers,2019,9.0,females
+456,Norway,managers,2019,72.7,females
+457,Switzerland,managers,2019,98.8,females
+458,United Kingdom,managers,2019,1152.3,females
+459,Montenegro,managers,2019,1.5,females
+460,North Macedonia,managers,2019,2.9,females
+461,Serbia,managers,2019,15.5,females
+462,Turkey,managers,2019,200.8,females
+463,European Union,professionals,2019,17972.8,females
+467,Belgium,professionals,2019,582.8,females
+468,Bulgaria,professionals,2019,315.9,females
+469,Czechia,professionals,2019,366.0,females
+470,Denmark,professionals,2019,423.6,females
+471,Germany (until 1990 former territory of the FRG),professionals,2019,2993.7,females
+472,Estonia,professionals,2019,76.4,females
+473,Ireland,professionals,2019,272.9,females
+474,Greece,professionals,2019,300.9,females
+475,Spain,professionals,2019,1874.3,females
+476,France,professionals,2019,2336.4,females
+477,Croatia,professionals,2019,191.7,females
+478,Italy,professionals,2019,1490.5,females
+479,Cyprus,professionals,2019,39.1,females
+480,Latvia,professionals,2019,102.0,females
+481,Lithuania,professionals,2019,205.6,females
+482,Luxembourg,professionals,2019,51.6,females
+483,Hungary,professionals,2019,374.7,females
+484,Malta,professionals,2019,21.3,females
+485,Netherlands,professionals,2019,978.4,females
+486,Austria,professionals,2019,428.0,females
+487,Poland,professionals,2019,1862.0,females
+488,Portugal,professionals,2019,494.7,females
+489,Romania,professionals,2019,743.4,females
+490,Slovenia,professionals,2019,125.6,females
+491,Slovakia,professionals,2019,184.9,females
+492,Finland,professionals,2019,309.7,females
+493,Sweden,professionals,2019,826.6,females
+494,Iceland,professionals,2019,28.4,females
+495,Norway,professionals,2019,420.8,females
+496,Switzerland,professionals,2019,523.6,females
+497,United Kingdom,professionals,2019,3751.0,females
+498,Montenegro,professionals,2019,23.7,females
+499,North Macedonia,professionals,2019,71.3,females
+500,Serbia,professionals,2019,214.9,females
+501,Turkey,professionals,2019,1451.3,females
+502,European Union,technicians,2019,15292.8,females
+506,Belgium,technicians,2019,296.2,females
+507,Bulgaria,technicians,2019,119.1,females
+508,Czechia,technicians,2019,362.5,females
+509,Denmark,technicians,2019,189.9,females
+510,Germany (until 1990 former territory of the FRG),technicians,2019,5405.3,females
+511,Estonia,technicians,2019,47.5,females
+512,Ireland,technicians,2019,125.3,females
+513,Greece,technicians,2019,138.8,females
+514,Spain,technicians,2019,829.9,females
+515,France,technicians,2019,2534.0,females
+516,Croatia,technicians,2019,95.3,females
+517,Italy,technicians,2019,1337.5,females
+518,Cyprus,technicians,2019,22.0,females
+519,Latvia,technicians,2019,66.6,females
+520,Lithuania,technicians,2019,72.7,females
+521,Luxembourg,technicians,2019,23.5,females
+522,Hungary,technicians,2019,335.6,females
+523,Malta,technicians,2019,11.3,females
+524,Netherlands,technicians,2019,686.6,females
+525,Austria,technicians,2019,300.9,females
+526,Poland,technicians,2019,959.6,females
+527,Portugal,technicians,2019,204.6,females
+528,Romania,technicians,2019,270.5,females
+529,Slovenia,technicians,2019,54.0,females
+530,Slovakia,technicians,2019,174.0,females
+531,Finland,technicians,2019,251.6,females
+532,Sweden,technicians,2019,377.9,females
+533,Iceland,technicians,2019,10.1,females
+534,Norway,technicians,2019,161.0,females
+535,Switzerland,technicians,2019,346.1,females
+536,United Kingdom,technicians,2019,1883.7,females
+537,Montenegro,technicians,2019,18.1,females
+538,North Macedonia,technicians,2019,39.4,females
+539,Serbia,technicians,2019,167.8,females
+540,Turkey,technicians,2019,438.8,females
+541,European Union,clerical_support,2019,11989.9,females
+545,Belgium,clerical_support,2019,302.4,females
+546,Bulgaria,clerical_support,2019,133.2,females
+547,Czechia,clerical_support,2019,349.3,females
+548,Denmark,clerical_support,2019,124.2,females
+549,Germany (until 1990 former territory of the FRG),clerical_support,2019,3328.0,females
+550,Estonia,clerical_support,2019,24.1,females
+551,Ireland,clerical_support,2019,150.2,females
+552,Greece,clerical_support,2019,249.6,females
+553,Spain,clerical_support,2019,1333.7,females
+554,France,clerical_support,2019,1581.6,females
+555,Croatia,clerical_support,2019,96.6,females
+556,Italy,clerical_support,2019,1678.6,females
+557,Cyprus,clerical_support,2019,31.7,females
+558,Latvia,clerical_support,2019,38.5,females
+559,Lithuania,clerical_support,2019,42.7,females
+560,Luxembourg,clerical_support,2019,11.4,females
+561,Hungary,clerical_support,2019,226.1,females
+562,Malta,clerical_support,2019,16.0,females
+563,Netherlands,clerical_support,2019,423.6,females
+564,Austria,clerical_support,2019,288.3,females
+565,Poland,clerical_support,2019,585.2,females
+566,Portugal,clerical_support,2019,263.5,females
+567,Romania,clerical_support,2019,241.9,females
+568,Slovenia,clerical_support,2019,44.3,females
+569,Finland,clerical_support,2019,87.2,females
+570,Sweden,clerical_support,2019,173.7,females
+571,Iceland,clerical_support,2019,6.9,females
+572,Norway,clerical_support,2019,76.8,females
+573,Switzerland,clerical_support,2019,336.0,females
+574,United Kingdom,clerical_support,2019,1828.4,females
+575,Montenegro,clerical_support,2019,11.4,females
+576,North Macedonia,clerical_support,2019,23.7,females
+577,Serbia,clerical_support,2019,143.2,females
+578,Turkey,clerical_support,2019,806.3,females
+579,European Union,total,2020,85480.5,males
+583,Belgium,total,2020,2081.9,males
+584,Bulgaria,total,2020,1406.8000000000002,males
+585,Czechia,total,2020,2285.55,males
+586,Denmark,total,2020,1297.4250000000002,males
+587,Germany (until 1990 former territory of the FRG),total,2020,,males
+588,Estonia,total,2020,270.55,males
+589,Ireland,total,2020,977.825,males
+590,Greece,total,2020,1416.025,males
+591,Spain,total,2020,8344.75,males
+592,France,total,2020,11639.3,males
+593,Croatia,total,2020,750.9749999999999,males
+594,Italy,total,2020,9599.725,males
+595,Cyprus,total,2020,180.925,males
+596,Latvia,total,2020,362.7,males
+597,Lithuania,total,2020,554.625,males
+598,Luxembourg,total,2020,138.525,males
+599,Hungary,total,2020,2088.725,males
+600,Malta,total,2020,120.75,males
+601,Netherlands,total,2020,3701.425,males
+602,Austria,total,2020,1930.8,males
+603,Poland,total,2020,6755.85,males
+604,Portugal,total,2020,1901.3,males
+605,Romania,total,2020,3636.625,males
+606,Slovenia,total,2020,448.35,males
+607,Slovakia,total,2020,1103.3000000000002,males
+608,Finland,total,2020,1069.8999999999999,males
+609,Sweden,total,2020,2245.35,males
+610,Iceland,total,2020,84.75000000000001,males
+611,Norway,total,2020,1267.5,males
+612,Switzerland,total,2020,2057.65,males
+613,United Kingdom,total,2020,13537.1,males
+614,Montenegro,total,2020,88.35000000000001,males
+615,North Macedonia,total,2020,373.55,males
+616,Serbia,total,2020,1115.675,males
+617,Turkey,total,2020,12909.9,males
+618,European Union,managers,2020,4161.65,males
+622,Belgium,managers,2020,171.97500000000002,males
+623,Bulgaria,managers,2020,46.525000000000006,males
+624,Czechia,managers,2020,105.725,males
+625,Denmark,managers,2020,44.025,males
+626,Germany (until 1990 former territory of the FRG),managers,2020,,males
+627,Estonia,managers,2020,21.325000000000003,males
+628,Ireland,managers,2020,76.825,males
+629,Greece,managers,2020,28.924999999999997,males
+630,Spain,managers,2020,240.0,males
+631,France,managers,2020,1076.0,males
+632,Croatia,managers,2020,19.8,males
+633,Italy,managers,2020,157.22500000000002,males
+634,Cyprus,managers,2020,11.025,males
+635,Latvia,managers,2020,24.424999999999997,males
+636,Lithuania,managers,2020,59.0,males
+637,Luxembourg,managers,2020,4.775,males
+638,Hungary,managers,2020,72.35,males
+639,Malta,managers,2020,15.975000000000001,males
+640,Netherlands,managers,2020,224.95,males
+641,Austria,managers,2020,122.525,males
+642,Poland,managers,2020,380.075,males
+643,Portugal,managers,2020,95.17500000000001,males
+644,Romania,managers,2020,73.44999999999999,males
+645,Slovenia,managers,2020,29.75,males
+646,Finland,managers,2020,34.175,males
+647,Sweden,managers,2020,145.89999999999998,males
+648,Iceland,managers,2020,10.55,males
+649,Norway,managers,2020,130.2,males
+650,Switzerland,managers,2020,176.65,males
+651,United Kingdom,managers,2020,1882.3,males
+652,Montenegro,managers,2020,2.15,males
+653,North Macedonia,managers,2020,6.025,males
+654,Serbia,managers,2020,24.35,males
+655,Turkey,managers,2020,614.175,males
+656,European Union,professionals,2020,14595.95,males
+660,Belgium,professionals,2020,454.375,males
+661,Bulgaria,professionals,2020,172.85,males
+662,Czechia,professionals,2020,315.575,males
+663,Denmark,professionals,2020,312.6,males
+664,Germany (until 1990 former territory of the FRG),professionals,2020,,males
+665,Estonia,professionals,2020,41.8,males
+666,Ireland,professionals,2020,235.6,males
+667,Greece,professionals,2020,249.3,males
+668,Spain,professionals,2020,1251.975,males
+669,France,professionals,2020,2093.5499999999997,males
+670,Croatia,professionals,2020,103.125,males
+671,Italy,professionals,2020,994.0749999999999,males
+672,Cyprus,professionals,2020,27.549999999999997,males
+673,Latvia,professionals,2020,50.375,males
+674,Lithuania,professionals,2020,96.275,males
+675,Luxembourg,professionals,2020,57.650000000000006,males
+676,Hungary,professionals,2020,326.70000000000005,males
+677,Malta,professionals,2020,21.975,males
+678,Netherlands,professionals,2020,997.0,males
+679,Austria,professionals,2020,317.425,males
+680,Poland,professionals,2020,998.925,males
+681,Portugal,professionals,2020,346.425,males
+682,Romania,professionals,2020,532.775,males
+683,Slovenia,professionals,2020,86.25,males
+684,Slovakia,professionals,2020,113.125,males
+685,Finland,professionals,2020,324.275,males
+686,Sweden,professionals,2020,572.875,males
+687,Iceland,professionals,2020,17.575,males
+688,Norway,professionals,2020,277.27500000000003,males
+689,Switzerland,professionals,2020,510.525,males
+690,United Kingdom,professionals,2020,3726.5,males
+691,Montenegro,professionals,2020,13.45,males
+692,North Macedonia,professionals,2020,48.0,males
+693,Serbia,professionals,2020,138.975,males
+694,Turkey,professionals,2020,1501.9750000000001,males
+695,European Union,technicians,2020,13818.175,males
+699,Belgium,technicians,2020,308.9,males
+700,Bulgaria,technicians,2020,139.5,males
+701,Czechia,technicians,2020,418.15000000000003,males
+702,Denmark,technicians,2020,252.05,males
+703,Germany (until 1990 former territory of the FRG),technicians,2020,,males
+704,Estonia,technicians,2020,39.325,males
+705,Ireland,technicians,2020,127.05000000000001,males
+706,Greece,technicians,2020,119.175,males
+707,Spain,technicians,2020,1145.575,males
+708,France,technicians,2020,2401.4,males
+709,Croatia,technicians,2020,128.75,males
+710,Italy,technicians,2020,1767.75,males
+711,Cyprus,technicians,2020,23.65,males
+712,Latvia,technicians,2020,47.8,males
+713,Lithuania,technicians,2020,51.4,males
+714,Luxembourg,technicians,2020,20.075,males
+715,Hungary,technicians,2020,229.45,males
+716,Malta,technicians,2020,19.349999999999998,males
+717,Netherlands,technicians,2020,575.6750000000001,males
+718,Austria,technicians,2020,374.275,males
+719,Poland,technicians,2020,898.75,males
+720,Portugal,technicians,2020,264.4,males
+721,Romania,technicians,2020,251.65000000000003,males
+722,Slovenia,technicians,2020,61.65,males
+723,Slovakia,technicians,2020,170.675,males
+724,Finland,technicians,2020,189.175,males
+725,Sweden,technicians,2020,466.175,males
+726,Iceland,technicians,2020,11.2,males
+727,Norway,technicians,2020,231.47500000000002,males
+728,Switzerland,technicians,2020,364.05,males
+729,United Kingdom,technicians,2020,1782.1666666666667,males
+730,Montenegro,technicians,2020,12.825000000000001,males
+731,North Macedonia,technicians,2020,42.8,males
+732,Serbia,technicians,2020,141.225,males
+733,Turkey,technicians,2020,989.225,males
+734,European Union,clerical_support,2020,6119.75,males
+738,Belgium,clerical_support,2020,209.52499999999998,males
+739,Bulgaria,clerical_support,2020,48.25,males
+740,Czechia,clerical_support,2020,95.15,males
+741,Denmark,clerical_support,2020,52.775,males
+742,Germany (until 1990 former territory of the FRG),clerical_support,2020,,males
+743,Estonia,clerical_support,2020,11.425,males
+744,Ireland,clerical_support,2020,52.125,males
+745,Greece,clerical_support,2020,179.375,males
+746,Spain,clerical_support,2020,635.4749999999999,males
+747,France,clerical_support,2020,531.375,males
+748,Croatia,clerical_support,2020,54.3,males
+749,Italy,clerical_support,2020,942.7750000000001,males
+750,Cyprus,clerical_support,2020,11.325,males
+751,Latvia,clerical_support,2020,10.8,males
+752,Lithuania,clerical_support,2020,20.375,males
+753,Luxembourg,clerical_support,2020,8.5,males
+754,Hungary,clerical_support,2020,82.55000000000001,males
+755,Malta,clerical_support,2020,11.325,males
+756,Netherlands,clerical_support,2020,303.1,males
+757,Austria,clerical_support,2020,111.65,males
+758,Poland,clerical_support,2020,427.6,males
+759,Portugal,clerical_support,2020,149.525,males
+760,Romania,clerical_support,2020,145.77499999999998,males
+761,Slovenia,clerical_support,2020,32.324999999999996,males
+762,Finland,clerical_support,2020,33.25,males
+763,Sweden,clerical_support,2020,113.55000000000001,males
+764,Iceland,clerical_support,2020,1.2666666666666666,males
+765,Norway,clerical_support,2020,60.95,males
+766,Switzerland,clerical_support,2020,210.20000000000002,males
+767,United Kingdom,clerical_support,2020,905.5666666666666,males
+768,Montenegro,clerical_support,2020,7.5,males
+769,North Macedonia,clerical_support,2020,27.225,males
+770,Serbia,clerical_support,2020,93.05,males
+771,Turkey,clerical_support,2020,1049.2,males
+772,European Union,total,2020,164256.84999999998,total
+776,Belgium,total,2020,4074.2000000000003,total
+777,Bulgaria,total,2020,2700.925,total
+778,Czechia,total,2020,4257.950000000001,total
+779,Denmark,total,2020,2537.875,total
+780,Germany (until 1990 former territory of the FRG),total,2020,,total
+781,Estonia,total,2020,546.7,total
+782,Ireland,total,2020,1922.6999999999998,total
+783,Greece,total,2020,2614.7250000000004,total
+784,Spain,total,2020,15987.325,total
+785,France,total,2020,23404.725,total
+786,Croatia,total,2020,1436.1499999999999,total
+787,Italy,total,2020,17486.675,total
+788,Cyprus,total,2020,354.74999999999994,total
+789,Latvia,total,2020,743.25,total
+790,Lithuania,total,2020,1148.325,total
+791,Luxembourg,total,2020,262.5,total
+792,Hungary,total,2020,3874.75,total
+793,Malta,total,2020,215.7,total
+794,Netherlands,total,2020,7277.3,total
+795,Austria,total,2020,3746.125,total
+796,Poland,total,2020,12828.4,total
+797,Portugal,total,2020,3936.025,total
+798,Romania,total,2020,6466.299999999999,total
+799,Slovenia,total,2020,849.55,total
+800,Slovakia,total,2020,2123.6000000000004,total
+801,Finland,total,2020,2156.425,total
+802,Sweden,total,2020,4438.9,total
+803,Iceland,total,2020,165.075,total
+804,Norway,total,2020,2460.75,total
+805,Switzerland,total,2020,3948.1,total
+806,United Kingdom,total,2020,26951.966666666664,total
+807,Montenegro,total,2020,169.07500000000002,total
+808,North Macedonia,total,2020,648.75,total
+809,Serbia,total,2020,2097.2,total
+810,Turkey,total,2020,18594.875,total
+811,European Union,managers,2020,6703.474999999999,total
+815,Belgium,managers,2020,283.25,total
+816,Bulgaria,managers,2020,97.5,total
+817,Czechia,managers,2020,158.27499999999998,total
+818,Denmark,managers,2020,63.550000000000004,total
+819,Germany (until 1990 former territory of the FRG),managers,2020,,total
+820,Estonia,managers,2020,41.45,total
+821,Ireland,managers,2020,129.225,total
+822,Greece,managers,2020,41.05,total
+823,Spain,managers,2020,399.7,total
+824,France,managers,2020,1734.8500000000001,total
+825,Croatia,managers,2020,30.474999999999998,total
+826,Italy,managers,2020,216.89999999999998,total
+827,Cyprus,managers,2020,14.924999999999999,total
+828,Latvia,managers,2020,51.55,total
+829,Lithuania,managers,2020,97.425,total
+830,Luxembourg,managers,2020,6.725,total
+831,Hungary,managers,2020,127.15,total
+832,Malta,managers,2020,23.8,total
+833,Netherlands,managers,2020,319.77500000000003,total
+834,Austria,managers,2020,186.125,total
+835,Poland,managers,2020,742.425,total
+836,Portugal,managers,2020,156.575,total
+837,Romania,managers,2020,123.25,total
+838,Slovenia,managers,2020,54.099999999999994,total
+839,Finland,managers,2020,57.575,total
+840,Sweden,managers,2020,267.275,total
+841,Iceland,managers,2020,18.575000000000003,total
+842,Norway,managers,2020,201.9,total
+843,Switzerland,managers,2020,272.35,total
+844,United Kingdom,managers,2020,3059.5333333333333,total
+845,Montenegro,managers,2020,3.075,total
+846,North Macedonia,managers,2020,8.075,total
+847,Serbia,managers,2020,39.4,total
+848,Turkey,managers,2020,810.7,total
+849,European Union,professionals,2020,33385.85,total
+853,Belgium,professionals,2020,1046.425,total
+854,Bulgaria,professionals,2020,490.75,total
+855,Czechia,professionals,2020,694.4250000000001,total
+856,Denmark,professionals,2020,733.775,total
+857,Germany (until 1990 former territory of the FRG),professionals,2020,,total
+858,Estonia,professionals,2020,119.4,total
+859,Ireland,professionals,2020,516.3,total
+860,Greece,professionals,2020,564.625,total
+861,Spain,professionals,2020,3079.2000000000003,total
+862,France,professionals,2020,4518.450000000001,total
+863,Croatia,professionals,2020,287.3,total
+864,Italy,professionals,2020,2483.7749999999996,total
+865,Cyprus,professionals,2020,67.525,total
+866,Latvia,professionals,2020,150.375,total
+867,Lithuania,professionals,2020,303.475,total
+868,Luxembourg,professionals,2020,111.85,total
+869,Hungary,professionals,2020,709.0500000000001,total
+870,Malta,professionals,2020,46.95,total
+871,Netherlands,professionals,2020,2009.6,total
+872,Austria,professionals,2020,747.8,total
+873,Poland,professionals,2020,2870.4000000000005,total
+874,Portugal,professionals,2020,905.675,total
+875,Romania,professionals,2020,1265.375,total
+876,Slovenia,professionals,2020,216.14999999999998,total
+877,Slovakia,professionals,2020,303.425,total
+878,Finland,professionals,2020,650.675,total
+879,Sweden,professionals,2020,1393.375,total
+880,Iceland,professionals,2020,42.8,total
+881,Norway,professionals,2020,698.25,total
+882,Switzerland,professionals,2020,1043.6,total
+883,United Kingdom,professionals,2020,7560.133333333334,total
+884,Montenegro,professionals,2020,36.225,total
+885,North Macedonia,professionals,2020,117.625,total
+886,Serbia,professionals,2020,359.99999999999994,total
+887,Turkey,professionals,2020,2942.5000000000005,total
+888,European Union,technicians,2020,27935.200000000004,total
+892,Belgium,technicians,2020,615.2249999999999,total
+893,Bulgaria,technicians,2020,272.95,total
+894,Czechia,technicians,2020,772.0,total
+895,Denmark,technicians,2020,455.625,total
+896,Germany (until 1990 former territory of the FRG),technicians,2020,,total
+897,Estonia,technicians,2020,87.475,total
+898,Ireland,technicians,2020,243.875,total
+899,Greece,technicians,2020,274.375,total
+900,Spain,technicians,2020,1957.0,total
+901,France,technicians,2020,4880.0,total
+902,Croatia,technicians,2020,228.625,total
+903,Italy,technicians,2020,3110.175,total
+904,Cyprus,technicians,2020,46.95,total
+905,Latvia,technicians,2020,114.95,total
+906,Lithuania,technicians,2020,116.67500000000001,total
+907,Luxembourg,technicians,2020,44.6,total
+908,Hungary,technicians,2020,570.7,total
+909,Malta,technicians,2020,30.675,total
+910,Netherlands,technicians,2020,1256.85,total
+911,Austria,technicians,2020,689.85,total
+912,Poland,technicians,2020,1903.3,total
+913,Portugal,technicians,2020,464.875,total
+914,Romania,technicians,2020,533.875,total
+915,Slovenia,technicians,2020,119.525,total
+916,Slovakia,technicians,2020,343.95000000000005,total
+917,Finland,technicians,2020,442.275,total
+918,Sweden,technicians,2020,843.875,total
+919,Iceland,technicians,2020,22.85,total
+920,Norway,technicians,2020,394.8,total
+921,Switzerland,technicians,2020,705.8499999999999,total
+922,United Kingdom,technicians,2020,3735.466666666667,total
+923,Montenegro,technicians,2020,26.975,total
+924,North Macedonia,technicians,2020,84.025,total
+925,Serbia,technicians,2020,300.125,total
+926,Turkey,technicians,2020,1425.1750000000002,total
+927,European Union,clerical_support,2020,18243.475,total
+931,Belgium,clerical_support,2020,526.725,total
+932,Bulgaria,clerical_support,2020,175.0,total
+933,Czechia,clerical_support,2020,431.45,total
+934,Denmark,clerical_support,2020,181.0,total
+935,Germany (until 1990 former territory of the FRG),clerical_support,2020,,total
+936,Estonia,clerical_support,2020,33.575,total
+937,Ireland,clerical_support,2020,204.075,total
+938,Greece,clerical_support,2020,422.82500000000005,total
+939,Spain,clerical_support,2020,1938.825,total
+940,France,clerical_support,2020,2133.3,total
+941,Croatia,clerical_support,2020,153.77499999999998,total
+942,Italy,clerical_support,2020,2625.225,total
+943,Cyprus,clerical_support,2020,44.625,total
+944,Latvia,clerical_support,2020,40.449999999999996,total
+945,Lithuania,clerical_support,2020,61.05,total
+946,Luxembourg,clerical_support,2020,19.299999999999997,total
+947,Hungary,clerical_support,2020,300.575,total
+948,Malta,clerical_support,2020,27.375,total
+949,Netherlands,clerical_support,2020,727.225,total
+950,Austria,clerical_support,2020,395.675,total
+951,Poland,clerical_support,2020,1012.175,total
+952,Portugal,clerical_support,2020,398.65,total
+953,Romania,clerical_support,2020,378.475,total
+954,Slovenia,clerical_support,2020,74.45,total
+955,Finland,clerical_support,2020,121.925,total
+956,Sweden,clerical_support,2020,275.325,total
+957,Iceland,clerical_support,2020,6.625,total
+958,Norway,clerical_support,2020,136.325,total
+959,Switzerland,clerical_support,2020,548.65,total
+960,United Kingdom,clerical_support,2020,2759.2666666666664,total
+961,Montenegro,clerical_support,2020,18.3,total
+962,North Macedonia,clerical_support,2020,52.75,total
+963,Serbia,clerical_support,2020,229.55,total
+964,Turkey,clerical_support,2020,1829.825,total
+965,European Union,total,2020,78776.35,females
+969,Belgium,total,2020,1992.2999999999997,females
+970,Bulgaria,total,2020,1294.125,females
+971,Czechia,total,2020,1972.375,females
+972,Denmark,total,2020,1240.45,females
+973,Germany (until 1990 former territory of the FRG),total,2020,,females
+974,Estonia,total,2020,276.175,females
+975,Ireland,total,2020,944.9000000000001,females
+976,Greece,total,2020,1198.7250000000001,females
+977,Spain,total,2020,7642.549999999999,females
+978,France,total,2020,11765.449999999999,females
+979,Croatia,total,2020,685.175,females
+980,Italy,total,2020,7886.950000000001,females
+981,Cyprus,total,2020,173.825,females
+982,Latvia,total,2020,380.54999999999995,females
+983,Lithuania,total,2020,593.675,females
+984,Luxembourg,total,2020,123.975,females
+985,Hungary,total,2020,1786.025,females
+986,Malta,total,2020,94.95,females
+987,Netherlands,total,2020,3575.9000000000005,females
+988,Austria,total,2020,1815.3249999999998,females
+989,Poland,total,2020,6072.525,females
+990,Portugal,total,2020,2034.7250000000001,females
+991,Romania,total,2020,2829.6499999999996,females
+992,Slovenia,total,2020,401.20000000000005,females
+993,Slovakia,total,2020,1020.3,females
+994,Finland,total,2020,1086.525,females
+995,Sweden,total,2020,2193.5,females
+996,Iceland,total,2020,80.30000000000001,females
+997,Norway,total,2020,1193.275,females
+998,Switzerland,total,2020,1890.425,females
+999,United Kingdom,total,2020,13414.9,females
+1000,Montenegro,total,2020,80.75,females
+1001,North Macedonia,total,2020,275.175,females
+1002,Serbia,total,2020,981.55,females
+1003,Turkey,total,2020,5684.95,females
+1004,European Union,managers,2020,2541.8,females
+1008,Belgium,managers,2020,111.30000000000001,females
+1009,Bulgaria,managers,2020,50.95,females
+1010,Czechia,managers,2020,52.574999999999996,females
+1011,Denmark,managers,2020,19.55,females
+1012,Germany (until 1990 former territory of the FRG),managers,2020,,females
+1013,Estonia,managers,2020,20.1,females
+1014,Ireland,managers,2020,52.425000000000004,females
+1015,Greece,managers,2020,12.125,females
+1016,Spain,managers,2020,159.65,females
+1017,France,managers,2020,658.8499999999999,females
+1018,Croatia,managers,2020,10.674999999999999,females
+1019,Italy,managers,2020,59.725,females
+1020,Cyprus,managers,2020,3.925,females
+1021,Latvia,managers,2020,27.15,females
+1022,Lithuania,managers,2020,38.5,females
+1023,Luxembourg,managers,2020,2.35,females
+1024,Hungary,managers,2020,54.8,females
+1025,Malta,managers,2020,7.825,females
+1026,Netherlands,managers,2020,94.85,females
+1027,Austria,managers,2020,63.62500000000001,females
+1028,Poland,managers,2020,362.29999999999995,females
+1029,Portugal,managers,2020,61.425,females
+1030,Romania,managers,2020,49.849999999999994,females
+1031,Slovenia,managers,2020,24.375,females
+1032,Finland,managers,2020,23.4,females
+1033,Sweden,managers,2020,121.35,females
+1034,Iceland,managers,2020,8.0,females
+1035,Norway,managers,2020,71.725,females
+1036,Switzerland,managers,2020,95.75,females
+1037,United Kingdom,managers,2020,1177.2333333333333,females
+1038,Montenegro,managers,2020,1.7,females
+1039,North Macedonia,managers,2020,2.3666666666666667,females
+1040,Serbia,managers,2020,15.075000000000001,females
+1041,Turkey,managers,2020,196.52499999999998,females
+1042,European Union,professionals,2020,18789.9,females
+1046,Belgium,professionals,2020,592.025,females
+1047,Bulgaria,professionals,2020,317.90000000000003,females
+1048,Czechia,professionals,2020,378.875,females
+1049,Denmark,professionals,2020,421.20000000000005,females
+1050,Germany (until 1990 former territory of the FRG),professionals,2020,,females
+1051,Estonia,professionals,2020,77.6,females
+1052,Ireland,professionals,2020,280.70000000000005,females
+1053,Greece,professionals,2020,315.35,females
+1054,Spain,professionals,2020,1827.25,females
+1055,France,professionals,2020,2424.875,females
+1056,Croatia,professionals,2020,184.14999999999998,females
+1057,Italy,professionals,2020,1489.6750000000002,females
+1058,Cyprus,professionals,2020,39.974999999999994,females
+1059,Latvia,professionals,2020,100.02499999999999,females
+1060,Lithuania,professionals,2020,207.2,females
+1061,Luxembourg,professionals,2020,54.2,females
+1062,Hungary,professionals,2020,382.375,females
+1063,Malta,professionals,2020,24.975,females
+1064,Netherlands,professionals,2020,1012.5999999999999,females
+1065,Austria,professionals,2020,430.35,females
+1066,Poland,professionals,2020,1871.475,females
+1067,Portugal,professionals,2020,559.25,females
+1068,Romania,professionals,2020,732.65,females
+1069,Slovenia,professionals,2020,129.92499999999998,females
+1070,Slovakia,professionals,2020,190.3,females
+1071,Finland,professionals,2020,326.425,females
+1072,Sweden,professionals,2020,820.5250000000001,females
+1073,Iceland,professionals,2020,25.225,females
+1074,Norway,professionals,2020,420.95,females
+1075,Switzerland,professionals,2020,533.125,females
+1076,United Kingdom,professionals,2020,3833.566666666667,females
+1077,Montenegro,professionals,2020,22.724999999999998,females
+1078,North Macedonia,professionals,2020,69.65,females
+1079,Serbia,professionals,2020,221.07500000000002,females
+1080,Turkey,professionals,2020,1440.5500000000002,females
+1081,European Union,technicians,2020,14117.025000000001,females
+1085,Belgium,technicians,2020,306.275,females
+1086,Bulgaria,technicians,2020,133.475,females
+1087,Czechia,technicians,2020,353.87500000000006,females
+1088,Denmark,technicians,2020,203.57500000000002,females
+1089,Germany (until 1990 former territory of the FRG),technicians,2020,,females
+1090,Estonia,technicians,2020,48.15,females
+1091,Ireland,technicians,2020,116.825,females
+1092,Greece,technicians,2020,155.2,females
+1093,Spain,technicians,2020,811.4250000000001,females
+1094,France,technicians,2020,2478.6,females
+1095,Croatia,technicians,2020,99.9,females
+1096,Italy,technicians,2020,1342.4,females
+1097,Cyprus,technicians,2020,23.275,females
+1098,Latvia,technicians,2020,67.15,females
+1099,Lithuania,technicians,2020,65.3,females
+1100,Luxembourg,technicians,2020,24.525,females
+1101,Hungary,technicians,2020,341.22499999999997,females
+1102,Malta,technicians,2020,11.3,females
+1103,Netherlands,technicians,2020,681.1999999999999,females
+1104,Austria,technicians,2020,315.54999999999995,females
+1105,Poland,technicians,2020,1004.525,females
+1106,Portugal,technicians,2020,200.475,females
+1107,Romania,technicians,2020,282.2,females
+1108,Slovenia,technicians,2020,57.900000000000006,females
+1109,Slovakia,technicians,2020,173.25,females
+1110,Finland,technicians,2020,253.10000000000002,females
+1111,Sweden,technicians,2020,377.67499999999995,females
+1112,Iceland,technicians,2020,11.674999999999999,females
+1113,Norway,technicians,2020,163.25,females
+1114,Switzerland,technicians,2020,341.8,females
+1115,United Kingdom,technicians,2020,1953.2666666666667,females
+1116,Montenegro,technicians,2020,14.100000000000001,females
+1117,North Macedonia,technicians,2020,41.2,females
+1118,Serbia,technicians,2020,158.925,females
+1119,Turkey,technicians,2020,435.9,females
+1120,European Union,clerical_support,2020,12123.75,females
+1124,Belgium,clerical_support,2020,317.225,females
+1125,Bulgaria,clerical_support,2020,126.75,females
+1126,Czechia,clerical_support,2020,336.325,females
+1127,Denmark,clerical_support,2020,128.25,females
+1128,Germany (until 1990 former territory of the FRG),clerical_support,2020,,females
+1129,Estonia,clerical_support,2020,22.125,females
+1130,Ireland,clerical_support,2020,151.925,females
+1131,Greece,clerical_support,2020,243.45,females
+1132,Spain,clerical_support,2020,1303.3250000000003,females
+1133,France,clerical_support,2020,1601.925,females
+1134,Croatia,clerical_support,2020,99.44999999999999,females
+1135,Italy,clerical_support,2020,1682.4499999999998,females
+1136,Cyprus,clerical_support,2020,33.3,females
+1137,Latvia,clerical_support,2020,29.625,females
+1138,Lithuania,clerical_support,2020,40.7,females
+1139,Luxembourg,clerical_support,2020,10.775,females
+1140,Hungary,clerical_support,2020,218.0,females
+1141,Malta,clerical_support,2020,16.075000000000003,females
+1142,Netherlands,clerical_support,2020,424.17499999999995,females
+1143,Austria,clerical_support,2020,284.0,females
+1144,Poland,clerical_support,2020,584.575,females
+1145,Portugal,clerical_support,2020,249.14999999999998,females
+1146,Romania,clerical_support,2020,232.75,females
+1147,Slovenia,clerical_support,2020,42.125,females
+1148,Finland,clerical_support,2020,88.69999999999999,females
+1149,Sweden,clerical_support,2020,161.77499999999998,females
+1150,Iceland,clerical_support,2020,5.5,females
+1151,Norway,clerical_support,2020,75.375,females
+1152,Switzerland,clerical_support,2020,338.42499999999995,females
+1153,United Kingdom,clerical_support,2020,1853.7333333333333,females
+1154,Montenegro,clerical_support,2020,10.799999999999999,females
+1155,North Macedonia,clerical_support,2020,25.549999999999997,females
+1156,Serbia,clerical_support,2020,136.525,females
+1157,Turkey,clerical_support,2020,780.6,females
+1158,European Union,total,2021,86145.65,males
+1162,Belgium,total,2021,2111.7999999999997,males
+1163,Bulgaria,total,2021,1387.3,males
+1164,Czechia,total,2021,2296.625,males
+1165,Denmark,total,2021,1305.2749999999999,males
+1166,Germany (until 1990 former territory of the FRG),total,2021,19223.4,males
+1167,Estonia,total,2021,268.575,males
+1168,Ireland,total,2021,1008.25,males
+1169,Greece,total,2021,1424.35,males
+1170,Spain,total,2021,8522.975,males
+1171,France,total,2021,11823.325,males
+1172,Croatia,total,2021,748.625,males
+1173,Italy,total,2021,9515.525,males
+1174,Cyprus,total,2021,191.8,males
+1175,Latvia,total,2021,350.525,males
+1176,Lithuania,total,2021,571.4,males
+1177,Luxembourg,total,2021,144.2,males
+1178,Hungary,total,2021,2076.15,males
+1179,Malta,total,2021,123.6,males
+1180,Netherlands,total,2021,3861.425,males
+1181,Austria,total,2021,1950.8500000000001,males
+1182,Poland,total,2021,6803.8,males
+1183,Portugal,total,2021,1927.1,males
+1184,Romania,total,2021,3701.8500000000004,males
+1185,Slovenia,total,2021,431.6,males
+1186,Slovakia,total,2021,1068.45,males
+1187,Finland,total,2021,1065.625,males
+1188,Sweden,total,2021,2241.0499999999997,males
+1189,Iceland,total,2021,84.475,males
+1190,Norway,total,2021,1321.9,males
+1191,Switzerland,total,2021,2020.1999999999998,males
+1192,United Kingdom,total,2021,,males
+1193,Montenegro,total,2021,,males
+1194,North Macedonia,total,2021,,males
+1195,Serbia,total,2021,1156.9,males
+1196,Turkey,total,2021,,males
+1197,European Union,managers,2021,3991.35,males
+1201,Belgium,managers,2021,168.3,males
+1202,Bulgaria,managers,2021,46.2,males
+1203,Czechia,managers,2021,138.95,males
+1204,Denmark,managers,2021,42.650000000000006,males
+1205,Germany (until 1990 former territory of the FRG),managers,2021,827.875,males
+1206,Estonia,managers,2021,20.0,males
+1207,Ireland,managers,2021,82.92500000000001,males
+1208,Greece,managers,2021,29.925,males
+1209,Spain,managers,2021,277.225,males
+1210,France,managers,2021,740.425,males
+1211,Croatia,managers,2021,16.975,males
+1212,Italy,managers,2021,162.95,males
+1213,Cyprus,managers,2021,11.475000000000001,males
+1214,Latvia,managers,2021,24.925,males
+1215,Lithuania,managers,2021,61.87499999999999,males
+1216,Luxembourg,managers,2021,6.824999999999999,males
+1217,Hungary,managers,2021,85.25,males
+1218,Malta,managers,2021,16.35,males
+1219,Netherlands,managers,2021,247.9,males
+1220,Austria,managers,2021,114.95,males
+1221,Poland,managers,2021,412.25,males
+1222,Portugal,managers,2021,111.02499999999999,males
+1223,Romania,managers,2021,81.72500000000001,males
+1224,Slovenia,managers,2021,19.400000000000002,males
+1225,Finland,managers,2021,29.675000000000004,males
+1226,Sweden,managers,2021,156.0,males
+1227,Iceland,managers,2021,10.125,males
+1228,Norway,managers,2021,136.77499999999998,males
+1229,Switzerland,managers,2021,186.4,males
+1230,United Kingdom,managers,2021,,males
+1231,Montenegro,managers,2021,,males
+1232,North Macedonia,managers,2021,,males
+1233,Serbia,managers,2021,23.449999999999996,males
+1234,Turkey,managers,2021,,males
+1235,European Union,professionals,2021,15571.2,males
+1239,Belgium,professionals,2021,479.15,males
+1240,Bulgaria,professionals,2021,169.95000000000002,males
+1241,Czechia,professionals,2021,343.675,males
+1242,Denmark,professionals,2021,308.025,males
+1243,Germany (until 1990 former territory of the FRG),professionals,2021,3714.7250000000004,males
+1244,Estonia,professionals,2021,44.2,males
+1245,Ireland,professionals,2021,249.97500000000002,males
+1246,Greece,professionals,2021,245.64999999999998,males
+1247,Spain,professionals,2021,1265.225,males
+1248,France,professionals,2021,2661.3999999999996,males
+1249,Croatia,professionals,2021,93.375,males
+1250,Italy,professionals,2021,906.125,males
+1251,Cyprus,professionals,2021,32.675,males
+1252,Latvia,professionals,2021,47.05,males
+1253,Lithuania,professionals,2021,109.025,males
+1254,Luxembourg,professionals,2021,62.925,males
+1255,Hungary,professionals,2021,340.4,males
+1256,Malta,professionals,2021,23.75,males
+1257,Netherlands,professionals,2021,1137.775,males
+1258,Austria,professionals,2021,325.45,males
+1259,Poland,professionals,2021,1028.5,males
+1260,Portugal,professionals,2021,372.45,males
+1261,Romania,professionals,2021,518.5,males
+1262,Slovenia,professionals,2021,92.17500000000001,males
+1263,Slovakia,professionals,2021,109.92499999999998,males
+1264,Finland,professionals,2021,288.575,males
+1265,Sweden,professionals,2021,600.575,males
+1266,Iceland,professionals,2021,16.125,males
+1267,Norway,professionals,2021,297.0,males
+1268,Switzerland,professionals,2021,495.5,males
+1269,United Kingdom,professionals,2021,,males
+1270,Montenegro,professionals,2021,,males
+1271,North Macedonia,professionals,2021,,males
+1272,Serbia,professionals,2021,159.375,males
+1273,Turkey,professionals,2021,,males
+1274,European Union,technicians,2021,13314.05,males
+1278,Belgium,technicians,2021,310.47499999999997,males
+1279,Bulgaria,technicians,2021,142.2,males
+1280,Czechia,technicians,2021,408.55000000000007,males
+1281,Denmark,technicians,2021,253.45,males
+1282,Germany (until 1990 former territory of the FRG),technicians,2021,3351.6,males
+1283,Estonia,technicians,2021,41.7,males
+1284,Ireland,technicians,2021,138.175,males
+1285,Greece,technicians,2021,123.29999999999998,males
+1286,Spain,technicians,2021,1170.05,males
+1287,France,technicians,2021,1825.8250000000003,males
+1288,Croatia,technicians,2021,121.45,males
+1289,Italy,technicians,2021,1712.775,males
+1290,Cyprus,technicians,2021,28.525,males
+1291,Latvia,technicians,2021,48.625,males
+1292,Lithuania,technicians,2021,52.1,males
+1293,Luxembourg,technicians,2021,20.025000000000002,males
+1294,Hungary,technicians,2021,230.75000000000003,males
+1295,Malta,technicians,2021,18.125,males
+1296,Netherlands,technicians,2021,610.475,males
+1297,Austria,technicians,2021,380.525,males
+1298,Poland,technicians,2021,924.5000000000001,males
+1299,Portugal,technicians,2021,279.15,males
+1300,Romania,technicians,2021,254.025,males
+1301,Slovenia,technicians,2021,65.6,males
+1302,Slovakia,technicians,2021,176.925,males
+1303,Finland,technicians,2021,185.55,males
+1304,Sweden,technicians,2021,439.70000000000005,males
+1305,Iceland,technicians,2021,12.325,males
+1306,Norway,technicians,2021,238.75,males
+1307,Switzerland,technicians,2021,343.525,males
+1308,United Kingdom,technicians,2021,,males
+1309,Montenegro,technicians,2021,,males
+1310,North Macedonia,technicians,2021,,males
+1311,Serbia,technicians,2021,141.35,males
+1312,Turkey,technicians,2021,,males
+1313,European Union,clerical_support,2021,6371.45,males
+1317,Belgium,clerical_support,2021,228.5,males
+1318,Bulgaria,clerical_support,2021,44.8,males
+1319,Czechia,clerical_support,2021,95.475,males
+1320,Denmark,clerical_support,2021,53.775000000000006,males
+1321,Germany (until 1990 former territory of the FRG),clerical_support,2021,1782.5,males
+1322,Estonia,clerical_support,2021,12.475,males
+1323,Ireland,clerical_support,2021,52.925000000000004,males
+1324,Greece,clerical_support,2021,178.17499999999998,males
+1325,Spain,clerical_support,2021,633.575,males
+1326,France,clerical_support,2021,657.925,males
+1327,Croatia,clerical_support,2021,55.2,males
+1328,Italy,clerical_support,2021,1012.9,males
+1329,Cyprus,clerical_support,2021,10.150000000000002,males
+1330,Latvia,clerical_support,2021,12.125,males
+1331,Lithuania,clerical_support,2021,17.15,males
+1332,Luxembourg,clerical_support,2021,8.625,males
+1333,Hungary,clerical_support,2021,100.0,males
+1334,Malta,clerical_support,2021,10.5,males
+1335,Netherlands,clerical_support,2021,317.65,males
+1336,Austria,clerical_support,2021,119.94999999999999,males
+1337,Poland,clerical_support,2021,435.45000000000005,males
+1338,Portugal,clerical_support,2021,157.325,males
+1339,Romania,clerical_support,2021,130.275,males
+1340,Slovenia,clerical_support,2021,26.45,males
+1341,Finland,clerical_support,2021,35.55,males
+1342,Sweden,clerical_support,2021,113.5,males
+1343,Iceland,clerical_support,2021,1.6500000000000001,males
+1344,Norway,clerical_support,2021,63.849999999999994,males
+1345,Switzerland,clerical_support,2021,204.125,males
+1346,United Kingdom,clerical_support,2021,,males
+1347,Montenegro,clerical_support,2021,,males
+1348,North Macedonia,clerical_support,2021,,males
+1349,Serbia,clerical_support,2021,97.575,males
+1350,Turkey,clerical_support,2021,,males
+1351,European Union,total,2021,166495.19999999998,total
+1355,Belgium,total,2021,4145.925,total
+1356,Bulgaria,total,2021,2668.475,total
+1357,Czechia,total,2021,4281.700000000001,total
+1358,Denmark,total,2021,2565.25,total
+1359,Germany (until 1990 former territory of the FRG),total,2021,36991.325,total
+1360,Estonia,total,2021,549.5,total
+1361,Ireland,total,2021,2011.9,total
+1362,Greece,total,2021,2646.6000000000004,total
+1363,Spain,total,2021,16483.074999999997,total
+1364,France,total,2021,23952.574999999997,total
+1365,Croatia,total,2021,1444.9,total
+1366,Italy,total,2021,17366.675000000003,total
+1367,Cyprus,total,2021,374.30000000000007,total
+1368,Latvia,total,2021,716.675,total
+1369,Lithuania,total,2021,1161.9,total
+1370,Luxembourg,total,2021,271.9,total
+1371,Hungary,total,2021,3997.1499999999996,total
+1372,Malta,total,2021,222.87500000000003,total
+1373,Netherlands,total,2021,7661.85,total
+1374,Austria,total,2021,3766.0750000000003,total
+1375,Poland,total,2021,13114.724999999999,total
+1376,Portugal,total,2021,3981.5,total
+1377,Romania,total,2021,6551.025000000001,total
+1378,Slovenia,total,2021,828.3,total
+1379,Slovakia,total,2021,2151.15,total
+1380,Finland,total,2021,2156.975,total
+1381,Sweden,total,2021,4430.9,total
+1382,Iceland,total,2021,163.77499999999998,total
+1383,Norway,total,2021,2551.85,total
+1384,Switzerland,total,2021,3886.3,total
+1385,United Kingdom,total,2021,,total
+1386,Montenegro,total,2021,,total
+1387,North Macedonia,total,2021,,total
+1388,Serbia,total,2021,2171.8,total
+1389,Turkey,total,2021,,total
+1390,European Union,managers,2021,6546.625000000001,total
+1394,Belgium,managers,2021,282.67499999999995,total
+1395,Bulgaria,managers,2021,86.94999999999999,total
+1396,Czechia,managers,2021,206.5,total
+1397,Denmark,managers,2021,61.974999999999994,total
+1398,Germany (until 1990 former territory of the FRG),managers,2021,1194.2749999999999,total
+1399,Estonia,managers,2021,39.65,total
+1400,Ireland,managers,2021,145.45,total
+1401,Greece,managers,2021,45.175,total
+1402,Spain,managers,2021,449.15,total
+1403,France,managers,2021,1294.625,total
+1404,Croatia,managers,2021,29.4,total
+1405,Italy,managers,2021,232.77499999999998,total
+1406,Cyprus,managers,2021,14.899999999999999,total
+1407,Latvia,managers,2021,55.349999999999994,total
+1408,Lithuania,managers,2021,98.75,total
+1409,Luxembourg,managers,2021,8.95,total
+1410,Hungary,managers,2021,146.35,total
+1411,Malta,managers,2021,24.625,total
+1412,Netherlands,managers,2021,351.82500000000005,total
+1413,Austria,managers,2021,183.05,total
+1414,Poland,managers,2021,785.15,total
+1415,Portugal,managers,2021,192.25,total
+1416,Romania,managers,2021,140.925,total
+1417,Slovenia,managers,2021,30.849999999999998,total
+1418,Finland,managers,2021,49.300000000000004,total
+1419,Sweden,managers,2021,292.375,total
+1420,Iceland,managers,2021,18.225,total
+1421,Norway,managers,2021,210.22500000000002,total
+1422,Switzerland,managers,2021,281.5,total
+1423,United Kingdom,managers,2021,,total
+1424,Montenegro,managers,2021,,total
+1425,North Macedonia,managers,2021,,total
+1426,Serbia,managers,2021,41.675,total
+1427,Turkey,managers,2021,,total
+1428,European Union,professionals,2021,35459.975,total
+1432,Belgium,professionals,2021,1087.125,total
+1433,Bulgaria,professionals,2021,503.20000000000005,total
+1434,Czechia,professionals,2021,768.775,total
+1435,Denmark,professionals,2021,717.625,total
+1436,Germany (until 1990 former territory of the FRG),professionals,2021,7569.025,total
+1437,Estonia,professionals,2021,133.925,total
+1438,Ireland,professionals,2021,547.125,total
+1439,Greece,professionals,2021,596.5,total
+1440,Spain,professionals,2021,3230.7,total
+1441,France,professionals,2021,5426.825,total
+1442,Croatia,professionals,2021,267.65,total
+1443,Italy,professionals,2021,2326.85,total
+1444,Cyprus,professionals,2021,74.025,total
+1445,Latvia,professionals,2021,147.8,total
+1446,Lithuania,professionals,2021,323.0,total
+1447,Luxembourg,professionals,2021,121.89999999999999,total
+1448,Hungary,professionals,2021,763.05,total
+1449,Malta,professionals,2021,51.025,total
+1450,Netherlands,professionals,2021,2238.35,total
+1451,Austria,professionals,2021,742.375,total
+1452,Poland,professionals,2021,2964.7250000000004,total
+1453,Portugal,professionals,2021,981.6750000000001,total
+1454,Romania,professionals,2021,1292.7250000000001,total
+1455,Slovenia,professionals,2021,232.2,total
+1456,Slovakia,professionals,2021,325.67499999999995,total
+1457,Finland,professionals,2021,587.85,total
+1458,Sweden,professionals,2021,1438.225,total
+1459,Iceland,professionals,2021,41.5,total
+1460,Norway,professionals,2021,740.575,total
+1461,Switzerland,professionals,2021,1022.575,total
+1462,United Kingdom,professionals,2021,,total
+1463,Montenegro,professionals,2021,,total
+1464,North Macedonia,professionals,2021,,total
+1465,Serbia,professionals,2021,387.525,total
+1466,Turkey,professionals,2021,,total
+1467,European Union,technicians,2021,27821.199999999997,total
+1471,Belgium,technicians,2021,628.625,total
+1472,Bulgaria,technicians,2021,274.57500000000005,total
+1473,Czechia,technicians,2021,738.0,total
+1474,Denmark,technicians,2021,467.975,total
+1475,Germany (until 1990 former territory of the FRG),technicians,2021,7669.475,total
+1476,Estonia,technicians,2021,89.02499999999999,total
+1477,Ireland,technicians,2021,273.325,total
+1478,Greece,technicians,2021,256.42499999999995,total
+1479,Spain,technicians,2021,1999.0499999999997,total
+1480,France,technicians,2021,4380.650000000001,total
+1481,Croatia,technicians,2021,229.525,total
+1482,Italy,technicians,2021,3021.1000000000004,total
+1483,Cyprus,technicians,2021,53.775,total
+1484,Latvia,technicians,2021,111.575,total
+1485,Lithuania,technicians,2021,118.35000000000001,total
+1486,Luxembourg,technicians,2021,43.824999999999996,total
+1487,Hungary,technicians,2021,618.6,total
+1488,Malta,technicians,2021,29.275,total
+1489,Netherlands,technicians,2021,1363.4250000000002,total
+1490,Austria,technicians,2021,698.675,total
+1491,Poland,technicians,2021,1990.25,total
+1492,Portugal,technicians,2021,493.07499999999993,total
+1493,Romania,technicians,2021,525.85,total
+1494,Slovenia,technicians,2021,134.4,total
+1495,Slovakia,technicians,2021,368.45,total
+1496,Finland,technicians,2021,431.40000000000003,total
+1497,Sweden,technicians,2021,812.425,total
+1498,Iceland,technicians,2021,24.275,total
+1499,Norway,technicians,2021,405.275,total
+1500,Switzerland,technicians,2021,677.5,total
+1501,United Kingdom,technicians,2021,,total
+1502,Montenegro,technicians,2021,,total
+1503,North Macedonia,technicians,2021,,total
+1504,Serbia,technicians,2021,301.675,total
+1505,Turkey,technicians,2021,,total
+1506,European Union,clerical_support,2021,18985.425,total
+1510,Belgium,clerical_support,2021,570.625,total
+1511,Bulgaria,clerical_support,2021,175.42499999999998,total
+1512,Czechia,clerical_support,2021,438.375,total
+1513,Denmark,clerical_support,2021,177.85000000000002,total
+1514,Germany (until 1990 former territory of the FRG),clerical_support,2021,5316.25,total
+1515,Estonia,clerical_support,2021,34.5,total
+1516,Ireland,clerical_support,2021,205.1,total
+1517,Greece,clerical_support,2021,433.175,total
+1518,Spain,clerical_support,2021,1994.6999999999998,total
+1519,France,clerical_support,2021,2351.4,total
+1520,Croatia,clerical_support,2021,158.52499999999998,total
+1521,Italy,clerical_support,2021,2754.675,total
+1522,Cyprus,clerical_support,2021,45.625,total
+1523,Latvia,clerical_support,2021,41.324999999999996,total
+1524,Lithuania,clerical_support,2021,61.35,total
+1525,Luxembourg,clerical_support,2021,19.775,total
+1526,Hungary,clerical_support,2021,339.6,total
+1527,Malta,clerical_support,2021,27.55,total
+1528,Netherlands,clerical_support,2021,795.375,total
+1529,Austria,clerical_support,2021,406.67499999999995,total
+1530,Poland,clerical_support,2021,1089.0,total
+1531,Portugal,clerical_support,2021,460.29999999999995,total
+1532,Romania,clerical_support,2021,355.30000000000007,total
+1533,Slovenia,clerical_support,2021,68.625,total
+1534,Finland,clerical_support,2021,128.05,total
+1535,Sweden,clerical_support,2021,279.175,total
+1536,Iceland,clerical_support,2021,6.3999999999999995,total
+1537,Norway,clerical_support,2021,142.55,total
+1538,Switzerland,clerical_support,2021,544.0999999999999,total
+1539,United Kingdom,clerical_support,2021,,total
+1540,Montenegro,clerical_support,2021,,total
+1541,North Macedonia,clerical_support,2021,,total
+1542,Serbia,clerical_support,2021,246.00000000000003,total
+1543,Turkey,clerical_support,2021,,total
+1544,European Union,total,2021,80349.54999999999,females
+1548,Belgium,total,2021,2034.1,females
+1549,Bulgaria,total,2021,1281.1750000000002,females
+1550,Czechia,total,2021,1985.05,females
+1551,Denmark,total,2021,1259.975,females
+1552,Germany (until 1990 former territory of the FRG),total,2021,17767.9,females
+1553,Estonia,total,2021,280.925,females
+1554,Ireland,total,2021,1003.6750000000001,females
+1555,Greece,total,2021,1222.2749999999999,females
+1556,Spain,total,2021,7960.1,females
+1557,France,total,2021,12129.2,females
+1558,Croatia,total,2021,696.2749999999999,females
+1559,Italy,total,2021,7851.15,females
+1560,Cyprus,total,2021,182.47500000000002,females
+1561,Latvia,total,2021,366.125,females
+1562,Lithuania,total,2021,590.45,females
+1563,Luxembourg,total,2021,127.67500000000001,females
+1564,Hungary,total,2021,1921.0,females
+1565,Malta,total,2021,99.25,females
+1566,Netherlands,total,2021,3800.425,females
+1567,Austria,total,2021,1815.2250000000001,females
+1568,Poland,total,2021,6310.95,females
+1569,Portugal,total,2021,2054.35,females
+1570,Romania,total,2021,2849.175,females
+1571,Slovenia,total,2021,396.70000000000005,females
+1572,Slovakia,total,2021,1082.7,females
+1573,Finland,total,2021,1091.35,females
+1574,Sweden,total,2021,2189.85,females
+1575,Iceland,total,2021,79.325,females
+1576,Norway,total,2021,1229.975,females
+1577,Switzerland,total,2021,1866.05,females
+1578,United Kingdom,total,2021,,females
+1579,Montenegro,total,2021,,females
+1580,North Macedonia,total,2021,,females
+1581,Serbia,total,2021,1014.8999999999999,females
+1582,Turkey,total,2021,,females
+1583,European Union,managers,2021,2555.275,females
+1587,Belgium,managers,2021,114.4,females
+1588,Bulgaria,managers,2021,40.75,females
+1589,Czechia,managers,2021,67.525,females
+1590,Denmark,managers,2021,19.3,females
+1591,Germany (until 1990 former territory of the FRG),managers,2021,366.42499999999995,females
+1592,Estonia,managers,2021,19.7,females
+1593,Ireland,managers,2021,62.574999999999996,females
+1594,Greece,managers,2021,15.3,females
+1595,Spain,managers,2021,171.925,females
+1596,France,managers,2021,554.2249999999999,females
+1597,Croatia,managers,2021,12.475,females
+1598,Italy,managers,2021,69.82499999999999,females
+1599,Cyprus,managers,2021,3.4,females
+1600,Latvia,managers,2021,30.45,females
+1601,Lithuania,managers,2021,36.900000000000006,females
+1602,Luxembourg,managers,2021,2.3,females
+1603,Hungary,managers,2021,61.05,females
+1604,Malta,managers,2021,8.274999999999999,females
+1605,Netherlands,managers,2021,103.9,females
+1606,Austria,managers,2021,68.1,females
+1607,Poland,managers,2021,372.925,females
+1608,Portugal,managers,2021,81.225,females
+1609,Romania,managers,2021,59.175,females
+1610,Slovenia,managers,2021,11.45,females
+1611,Finland,managers,2021,19.65,females
+1612,Sweden,managers,2021,136.35,females
+1613,Iceland,managers,2021,8.075,females
+1614,Norway,managers,2021,73.45,females
+1615,Switzerland,managers,2021,95.07499999999999,females
+1616,United Kingdom,managers,2021,,females
+1617,Montenegro,managers,2021,,females
+1618,North Macedonia,managers,2021,,females
+1619,Serbia,managers,2021,18.2,females
+1620,Turkey,managers,2021,,females
+1621,European Union,professionals,2021,19888.75,females
+1625,Belgium,professionals,2021,607.9749999999999,females
+1626,Bulgaria,professionals,2021,333.225,females
+1627,Czechia,professionals,2021,425.15000000000003,females
+1628,Denmark,professionals,2021,409.6,females
+1629,Germany (until 1990 former territory of the FRG),professionals,2021,3854.3,females
+1630,Estonia,professionals,2021,89.7,females
+1631,Ireland,professionals,2021,297.15,females
+1632,Greece,professionals,2021,350.84999999999997,females
+1633,Spain,professionals,2021,1965.5,females
+1634,France,professionals,2021,2765.4500000000003,females
+1635,Croatia,professionals,2021,174.29999999999998,females
+1636,Italy,professionals,2021,1420.7,females
+1637,Cyprus,professionals,2021,41.325,females
+1638,Latvia,professionals,2021,100.775,females
+1639,Lithuania,professionals,2021,213.975,females
+1640,Luxembourg,professionals,2021,58.975,females
+1641,Hungary,professionals,2021,422.65,females
+1642,Malta,professionals,2021,27.275,females
+1643,Netherlands,professionals,2021,1100.6,females
+1644,Austria,professionals,2021,416.9,females
+1645,Poland,professionals,2021,1936.225,females
+1646,Portugal,professionals,2021,609.225,females
+1647,Romania,professionals,2021,774.2,females
+1648,Slovenia,professionals,2021,140.02499999999998,females
+1649,Slovakia,professionals,2021,215.72500000000002,females
+1650,Finland,professionals,2021,299.25,females
+1651,Sweden,professionals,2021,837.6750000000001,females
+1652,Iceland,professionals,2021,25.375,females
+1653,Norway,professionals,2021,443.55000000000007,females
+1654,Switzerland,professionals,2021,527.0999999999999,females
+1655,United Kingdom,professionals,2021,,females
+1656,Montenegro,professionals,2021,,females
+1657,North Macedonia,professionals,2021,,females
+1658,Serbia,professionals,2021,228.14999999999998,females
+1659,Turkey,professionals,2021,,females
+1660,European Union,technicians,2021,14507.150000000001,females
+1664,Belgium,technicians,2021,318.15,females
+1665,Bulgaria,technicians,2021,132.375,females
+1666,Czechia,technicians,2021,329.45,females
+1667,Denmark,technicians,2021,214.55,females
+1668,Germany (until 1990 former territory of the FRG),technicians,2021,4317.875,females
+1669,Estonia,technicians,2021,47.324999999999996,females
+1670,Ireland,technicians,2021,135.17499999999998,females
+1671,Greece,technicians,2021,133.125,females
+1672,Spain,technicians,2021,829.0,females
+1673,France,technicians,2021,2554.875,females
+1674,Croatia,technicians,2021,108.07499999999999,females
+1675,Italy,technicians,2021,1308.325,females
+1676,Cyprus,technicians,2021,25.25,females
+1677,Latvia,technicians,2021,62.99999999999999,females
+1678,Lithuania,technicians,2021,66.225,females
+1679,Luxembourg,technicians,2021,23.849999999999998,females
+1680,Hungary,technicians,2021,387.85,females
+1681,Malta,technicians,2021,11.150000000000002,females
+1682,Netherlands,technicians,2021,752.95,females
+1683,Austria,technicians,2021,318.15,females
+1684,Poland,technicians,2021,1065.725,females
+1685,Portugal,technicians,2021,213.925,females
+1686,Romania,technicians,2021,271.77500000000003,females
+1687,Slovenia,technicians,2021,68.775,females
+1688,Slovakia,technicians,2021,191.525,females
+1689,Finland,technicians,2021,245.875,females
+1690,Sweden,technicians,2021,372.775,females
+1691,Iceland,technicians,2021,11.925,females
+1692,Norway,technicians,2021,166.475,females
+1693,Switzerland,technicians,2021,333.975,females
+1694,United Kingdom,technicians,2021,,females
+1695,Montenegro,technicians,2021,,females
+1696,North Macedonia,technicians,2021,,females
+1697,Serbia,technicians,2021,160.3,females
+1698,Turkey,technicians,2021,,females
+1699,European Union,clerical_support,2021,12613.975,females
+1703,Belgium,clerical_support,2021,342.15,females
+1704,Bulgaria,clerical_support,2021,130.65,females
+1705,Czechia,clerical_support,2021,342.875,females
+1706,Denmark,clerical_support,2021,124.07499999999999,females
+1707,Germany (until 1990 former territory of the FRG),clerical_support,2021,3533.775,females
+1708,Estonia,clerical_support,2021,22.05,females
+1709,Ireland,clerical_support,2021,152.14999999999998,females
+1710,Greece,clerical_support,2021,254.99999999999997,females
+1711,Spain,clerical_support,2021,1361.125,females
+1712,France,clerical_support,2021,1693.475,females
+1713,Croatia,clerical_support,2021,103.35,females
+1714,Italy,clerical_support,2021,1741.775,females
+1715,Cyprus,clerical_support,2021,35.45,females
+1716,Latvia,clerical_support,2021,29.174999999999997,females
+1717,Lithuania,clerical_support,2021,44.25,females
+1718,Luxembourg,clerical_support,2021,11.175,females
+1719,Hungary,clerical_support,2021,239.575,females
+1720,Malta,clerical_support,2021,17.025,females
+1721,Netherlands,clerical_support,2021,477.725,females
+1722,Austria,clerical_support,2021,286.725,females
+1723,Poland,clerical_support,2021,653.575,females
+1724,Portugal,clerical_support,2021,302.975,females
+1725,Romania,clerical_support,2021,225.075,females
+1726,Slovenia,clerical_support,2021,42.175,females
+1727,Finland,clerical_support,2021,92.5,females
+1728,Sweden,clerical_support,2021,165.675,females
+1729,Iceland,clerical_support,2021,4.75,females
+1730,Norway,clerical_support,2021,78.75,females
+1731,Switzerland,clerical_support,2021,340.0,females
+1732,United Kingdom,clerical_support,2021,,females
+1733,Montenegro,clerical_support,2021,,females
+1734,North Macedonia,clerical_support,2021,,females
+1735,Serbia,clerical_support,2021,148.475,females
+1736,Turkey,clerical_support,2021,,females
+1737,European Union,total,2022,87124.5,males
+1741,Belgium,total,2022,2142.3,males
+1742,Bulgaria,total,2022,1375.3,males
+1743,Czechia,total,2022,2272.3,males
+1744,Denmark,total,2022,1316.5,males
+1745,Germany (until 1990 former territory of the FRG),total,2022,19694.2,males
+1746,Estonia,total,2022,280.0,males
+1747,Ireland,total,2022,1054.4,males
+1748,Greece,total,2022,1478.6,males
+1749,Spain,total,2022,8687.5,males
+1750,France,total,2022,11832.8,males
+1751,Croatia,total,2022,730.2,males
+1752,Italy,total,2022,9615.7,males
+1753,Cyprus,total,2022,199.2,males
+1754,Latvia,total,2022,351.3,males
+1755,Lithuania,total,2022,560.8,males
+1756,Luxembourg,total,2022,147.9,males
+1757,Hungary,total,2022,2079.9,males
+1758,Malta,total,2022,126.3,males
+1759,Netherlands,total,2022,3938.0,males
+1760,Austria,total,2022,1956.1,males
+1761,Poland,total,2022,6797.6,males
+1762,Portugal,total,2022,1952.8,males
+1763,Romania,total,2022,3719.7,males
+1764,Slovenia,total,2022,432.4,males
+1765,Slovakia,total,2022,1062.9,males
+1766,Finland,total,2022,1058.3,males
+1767,Sweden,total,2022,2261.4,males
+1768,Iceland,total,2022,87.6,males
+1769,Norway,total,2022,1354.9,males
+1770,Switzerland,total,2022,2011.8,males
+1771,United Kingdom,total,2022,,males
+1772,Montenegro,total,2022,,males
+1773,North Macedonia,total,2022,,males
+1774,Serbia,total,2022,1172.1,males
+1775,Turkey,total,2022,,males
+1776,European Union,managers,2022,4093.1,males
+1780,Belgium,managers,2022,165.2,males
+1781,Bulgaria,managers,2022,46.8,males
+1782,Czechia,managers,2022,148.9,males
+1783,Denmark,managers,2022,45.2,males
+1784,Germany (until 1990 former territory of the FRG),managers,2022,863.6,males
+1785,Estonia,managers,2022,18.8,males
+1786,Ireland,managers,2022,91.6,males
+1787,Greece,managers,2022,32.9,males
+1788,Spain,managers,2022,284.1,males
+1789,France,managers,2022,730.5,males
+1790,Croatia,managers,2022,14.6,males
+1791,Italy,managers,2022,182.6,males
+1792,Cyprus,managers,2022,12.0,males
+1793,Latvia,managers,2022,20.7,males
+1794,Lithuania,managers,2022,57.1,males
+1795,Luxembourg,managers,2022,8.3,males
+1796,Hungary,managers,2022,87.2,males
+1797,Malta,managers,2022,17.8,males
+1798,Netherlands,managers,2022,241.8,males
+1799,Austria,managers,2022,117.6,males
+1800,Poland,managers,2022,414.2,males
+1801,Portugal,managers,2022,99.0,males
+1802,Romania,managers,2022,122.1,males
+1803,Slovenia,managers,2022,19.7,males
+1804,Finland,managers,2022,30.8,males
+1805,Sweden,managers,2022,164.5,males
+1806,Iceland,managers,2022,9.6,males
+1807,Norway,managers,2022,134.3,males
+1808,Switzerland,managers,2022,193.3,males
+1809,United Kingdom,managers,2022,,males
+1810,Montenegro,managers,2022,,males
+1811,North Macedonia,managers,2022,,males
+1812,Serbia,managers,2022,29.2,males
+1813,Turkey,managers,2022,,males
+1814,European Union,professionals,2022,16181.4,males
+1818,Belgium,professionals,2022,465.9,males
+1819,Bulgaria,professionals,2022,169.6,males
+1820,Czechia,professionals,2022,331.8,males
+1821,Denmark,professionals,2022,303.1,males
+1822,Germany (until 1990 former territory of the FRG),professionals,2022,4106.7,males
+1823,Estonia,professionals,2022,45.7,males
+1824,Ireland,professionals,2022,262.0,males
+1825,Greece,professionals,2022,257.4,males
+1826,Spain,professionals,2022,1310.1,males
+1827,France,professionals,2022,2665.7,males
+1828,Croatia,professionals,2022,91.0,males
+1829,Italy,professionals,2022,931.8,males
+1830,Cyprus,professionals,2022,33.9,males
+1831,Latvia,professionals,2022,57.9,males
+1832,Lithuania,professionals,2022,112.8,males
+1833,Luxembourg,professionals,2022,64.0,males
+1834,Hungary,professionals,2022,350.6,males
+1835,Malta,professionals,2022,24.4,males
+1836,Netherlands,professionals,2022,1198.8,males
+1837,Austria,professionals,2022,342.9,males
+1838,Poland,professionals,2022,973.2,males
+1839,Portugal,professionals,2022,400.9,males
+1840,Romania,professionals,2022,558.2,males
+1841,Slovenia,professionals,2022,91.8,males
+1842,Slovakia,professionals,2022,117.5,males
+1843,Finland,professionals,2022,293.0,males
+1844,Sweden,professionals,2022,620.8,males
+1845,Iceland,professionals,2022,16.0,males
+1846,Norway,professionals,2022,298.3,males
+1847,Switzerland,professionals,2022,484.4,males
+1848,United Kingdom,professionals,2022,,males
+1849,Montenegro,professionals,2022,,males
+1850,North Macedonia,professionals,2022,,males
+1851,Serbia,professionals,2022,160.3,males
+1852,Turkey,professionals,2022,,males
+1853,European Union,technicians,2022,13699.0,males
+1857,Belgium,technicians,2022,340.6,males
+1858,Bulgaria,technicians,2022,135.7,males
+1859,Czechia,technicians,2022,401.8,males
+1860,Denmark,technicians,2022,270.7,males
+1861,Germany (until 1990 former territory of the FRG),technicians,2022,3501.0,males
+1862,Estonia,technicians,2022,45.2,males
+1863,Ireland,technicians,2022,140.6,males
+1864,Greece,technicians,2022,140.2,males
+1865,Spain,technicians,2022,1212.6,males
+1866,France,technicians,2022,1877.0,males
+1867,Croatia,technicians,2022,114.0,males
+1868,Italy,technicians,2022,1757.8,males
+1869,Cyprus,technicians,2022,29.2,males
+1870,Latvia,technicians,2022,48.8,males
+1871,Lithuania,technicians,2022,50.4,males
+1872,Luxembourg,technicians,2022,21.2,males
+1873,Hungary,technicians,2022,244.6,males
+1874,Malta,technicians,2022,17.2,males
+1875,Netherlands,technicians,2022,616.8,males
+1876,Austria,technicians,2022,389.3,males
+1877,Poland,technicians,2022,936.0,males
+1878,Portugal,technicians,2022,300.0,males
+1879,Romania,technicians,2022,232.5,males
+1880,Slovenia,technicians,2022,65.8,males
+1881,Slovakia,technicians,2022,187.5,males
+1882,Finland,technicians,2022,185.1,males
+1883,Sweden,technicians,2022,437.3,males
+1884,Iceland,technicians,2022,13.1,males
+1885,Norway,technicians,2022,246.3,males
+1886,Switzerland,technicians,2022,329.2,males
+1887,United Kingdom,technicians,2022,,males
+1888,Montenegro,technicians,2022,,males
+1889,North Macedonia,technicians,2022,,males
+1890,Serbia,technicians,2022,135.5,males
+1891,Turkey,technicians,2022,,males
+1892,European Union,clerical_support,2022,6393.6,males
+1896,Belgium,clerical_support,2022,221.8,males
+1897,Bulgaria,clerical_support,2022,45.3,males
+1898,Czechia,clerical_support,2022,93.6,males
+1899,Denmark,clerical_support,2022,55.3,males
+1900,Germany (until 1990 former territory of the FRG),clerical_support,2022,1752.6,males
+1901,Estonia,clerical_support,2022,15.2,males
+1902,Ireland,clerical_support,2022,57.6,males
+1903,Greece,clerical_support,2022,184.7,males
+1904,Spain,clerical_support,2022,666.2,males
+1905,France,clerical_support,2022,689.6,males
+1906,Croatia,clerical_support,2022,53.0,males
+1907,Italy,clerical_support,2022,995.4,males
+1908,Cyprus,clerical_support,2022,12.1,males
+1909,Latvia,clerical_support,2022,10.5,males
+1910,Lithuania,clerical_support,2022,16.8,males
+1911,Luxembourg,clerical_support,2022,8.3,males
+1912,Hungary,clerical_support,2022,102.8,males
+1913,Malta,clerical_support,2022,11.1,males
+1914,Netherlands,clerical_support,2022,331.4,males
+1915,Austria,clerical_support,2022,120.3,males
+1916,Poland,clerical_support,2022,455.3,males
+1917,Portugal,clerical_support,2022,141.2,males
+1918,Romania,clerical_support,2022,132.9,males
+1919,Slovenia,clerical_support,2022,27.0,males
+1920,Finland,clerical_support,2022,34.8,males
+1921,Sweden,clerical_support,2022,103.5,males
+1922,Iceland,clerical_support,2022,2.4,males
+1923,Norway,clerical_support,2022,66.5,males
+1924,Switzerland,clerical_support,2022,204.3,males
+1925,United Kingdom,clerical_support,2022,,males
+1926,Montenegro,clerical_support,2022,,males
+1927,North Macedonia,clerical_support,2022,,males
+1928,Serbia,clerical_support,2022,101.0,males
+1929,Turkey,clerical_support,2022,,males
+1930,European Union,total,2022,168392.0,total
+1934,Belgium,total,2022,4211.6,total
+1935,Bulgaria,total,2022,2668.4,total
+1936,Czechia,total,2022,4226.4,total
+1937,Denmark,total,2022,2600.0,total
+1938,Germany (until 1990 former territory of the FRG),total,2022,37726.7,total
+1939,Estonia,total,2022,571.8,total
+1940,Ireland,total,2022,2114.2,total
+1941,Greece,total,2022,2745.3,total
+1942,Spain,total,2022,16774.5,total
+1943,France,total,2022,24047.0,total
+1944,Croatia,total,2022,1438.6,total
+1945,Italy,total,2022,17511.6,total
+1946,Cyprus,total,2022,386.5,total
+1947,Latvia,total,2022,722.7,total
+1948,Lithuania,total,2022,1157.2,total
+1949,Luxembourg,total,2022,276.7,total
+1950,Hungary,total,2022,4022.1,total
+1951,Malta,total,2022,230.1,total
+1952,Netherlands,total,2022,7766.2,total
+1953,Austria,total,2022,3800.4,total
+1954,Poland,total,2022,13139.2,total
+1955,Portugal,total,2022,4054.1,total
+1956,Romania,total,2022,6618.2,total
+1957,Slovenia,total,2022,834.2,total
+1958,Slovakia,total,2022,2149.2,total
+1959,Finland,total,2022,2167.7,total
+1960,Sweden,total,2022,4431.5,total
+1961,Iceland,total,2022,171.2,total
+1962,Norway,total,2022,2600.1,total
+1963,Switzerland,total,2022,3872.4,total
+1964,United Kingdom,total,2022,,total
+1965,Montenegro,total,2022,,total
+1966,North Macedonia,total,2022,,total
+1967,Serbia,total,2022,2191.4,total
+1968,Turkey,total,2022,,total
+1969,European Union,managers,2022,6725.6,total
+1973,Belgium,managers,2022,277.6,total
+1974,Bulgaria,managers,2022,93.2,total
+1975,Czechia,managers,2022,216.0,total
+1976,Denmark,managers,2022,68.4,total
+1977,Germany (until 1990 former territory of the FRG),managers,2022,1234.6,total
+1978,Estonia,managers,2022,38.7,total
+1979,Ireland,managers,2022,163.2,total
+1980,Greece,managers,2022,51.6,total
+1981,Spain,managers,2022,467.5,total
+1982,France,managers,2022,1329.0,total
+1983,Croatia,managers,2022,21.7,total
+1984,Italy,managers,2022,247.6,total
+1985,Cyprus,managers,2022,15.6,total
+1986,Latvia,managers,2022,52.5,total
+1987,Lithuania,managers,2022,97.6,total
+1988,Luxembourg,managers,2022,10.6,total
+1989,Hungary,managers,2022,148.9,total
+1990,Malta,managers,2022,27.4,total
+1991,Netherlands,managers,2022,349.2,total
+1992,Austria,managers,2022,179.9,total
+1993,Poland,managers,2022,794.1,total
+1994,Portugal,managers,2022,171.7,total
+1995,Romania,managers,2022,186.6,total
+1996,Slovenia,managers,2022,32.1,total
+1997,Finland,managers,2022,49.8,total
+1998,Sweden,managers,2022,294.6,total
+1999,Iceland,managers,2022,18.7,total
+2000,Norway,managers,2022,204.7,total
+2001,Switzerland,managers,2022,281.5,total
+2002,United Kingdom,managers,2022,,total
+2003,Montenegro,managers,2022,,total
+2004,North Macedonia,managers,2022,,total
+2005,Serbia,managers,2022,49.1,total
+2006,Turkey,managers,2022,,total
+2007,European Union,professionals,2022,36739.6,total
+2011,Belgium,professionals,2022,1078.9,total
+2012,Bulgaria,professionals,2022,505.5,total
+2013,Czechia,professionals,2022,747.7,total
+2014,Denmark,professionals,2022,721.2,total
+2015,Germany (until 1990 former territory of the FRG),professionals,2022,8323.2,total
+2016,Estonia,professionals,2022,142.6,total
+2017,Ireland,professionals,2022,577.0,total
+2018,Greece,professionals,2022,653.1,total
+2019,Spain,professionals,2022,3323.9,total
+2020,France,professionals,2022,5407.1,total
+2021,Croatia,professionals,2022,261.9,total
+2022,Italy,professionals,2022,2400.8,total
+2023,Cyprus,professionals,2022,78.7,total
+2024,Latvia,professionals,2022,166.3,total
+2025,Lithuania,professionals,2022,330.4,total
+2026,Luxembourg,professionals,2022,122.1,total
+2027,Hungary,professionals,2022,764.0,total
+2028,Malta,professionals,2022,51.4,total
+2029,Netherlands,professionals,2022,2359.2,total
+2030,Austria,professionals,2022,777.6,total
+2031,Poland,professionals,2022,2914.0,total
+2032,Portugal,professionals,2022,1015.0,total
+2033,Romania,professionals,2022,1367.2,total
+2034,Slovenia,professionals,2022,233.4,total
+2035,Slovakia,professionals,2022,336.8,total
+2036,Finland,professionals,2022,592.6,total
+2037,Sweden,professionals,2022,1487.8,total
+2038,Iceland,professionals,2022,44.0,total
+2039,Norway,professionals,2022,748.4,total
+2040,Switzerland,professionals,2022,1013.7,total
+2041,United Kingdom,professionals,2022,,total
+2042,Montenegro,professionals,2022,,total
+2043,North Macedonia,professionals,2022,,total
+2044,Serbia,professionals,2022,390.9,total
+2045,Turkey,professionals,2022,,total
+2046,European Union,technicians,2022,28446.1,total
+2050,Belgium,technicians,2022,677.5,total
+2051,Bulgaria,technicians,2022,256.8,total
+2052,Czechia,technicians,2022,720.6,total
+2053,Denmark,technicians,2022,483.6,total
+2054,Germany (until 1990 former territory of the FRG),technicians,2022,7949.3,total
+2055,Estonia,technicians,2022,93.8,total
+2056,Ireland,technicians,2022,286.4,total
+2057,Greece,technicians,2022,249.8,total
+2058,Spain,technicians,2022,2025.2,total
+2059,France,technicians,2022,4513.4,total
+2060,Croatia,technicians,2022,223.5,total
+2061,Italy,technicians,2022,3071.3,total
+2062,Cyprus,technicians,2022,54.5,total
+2063,Latvia,technicians,2022,111.9,total
+2064,Lithuania,technicians,2022,112.5,total
+2065,Luxembourg,technicians,2022,47.2,total
+2066,Hungary,technicians,2022,657.8,total
+2067,Malta,technicians,2022,29.8,total
+2068,Netherlands,technicians,2022,1383.1,total
+2069,Austria,technicians,2022,719.3,total
+2070,Poland,technicians,2022,1973.5,total
+2071,Portugal,technicians,2022,539.8,total
+2072,Romania,technicians,2022,505.8,total
+2073,Slovenia,technicians,2022,133.1,total
+2074,Slovakia,technicians,2022,380.4,total
+2075,Finland,technicians,2022,438.6,total
+2076,Sweden,technicians,2022,808.0,total
+2077,Iceland,technicians,2022,26.0,total
+2078,Norway,technicians,2022,409.8,total
+2079,Switzerland,technicians,2022,672.2,total
+2080,United Kingdom,technicians,2022,,total
+2081,Montenegro,technicians,2022,,total
+2082,North Macedonia,technicians,2022,,total
+2083,Serbia,technicians,2022,301.5,total
+2084,Turkey,technicians,2022,,total
+2085,European Union,clerical_support,2022,19080.0,total
+2089,Belgium,clerical_support,2022,592.1,total
+2090,Bulgaria,clerical_support,2022,172.4,total
+2091,Czechia,clerical_support,2022,420.0,total
+2092,Denmark,clerical_support,2022,163.4,total
+2093,Germany (until 1990 former territory of the FRG),clerical_support,2022,5203.6,total
+2094,Estonia,clerical_support,2022,41.4,total
+2095,Ireland,clerical_support,2022,214.1,total
+2096,Greece,clerical_support,2022,457.4,total
+2097,Spain,clerical_support,2022,2035.6,total
+2098,France,clerical_support,2022,2435.1,total
+2099,Croatia,clerical_support,2022,157.1,total
+2100,Italy,clerical_support,2022,2726.3,total
+2101,Cyprus,clerical_support,2022,48.1,total
+2102,Latvia,clerical_support,2022,38.4,total
+2103,Lithuania,clerical_support,2022,65.2,total
+2104,Luxembourg,clerical_support,2022,18.3,total
+2105,Hungary,clerical_support,2022,349.3,total
+2106,Malta,clerical_support,2022,27.4,total
+2107,Netherlands,clerical_support,2022,805.0,total
+2108,Austria,clerical_support,2022,408.5,total
+2109,Poland,clerical_support,2022,1165.3,total
+2110,Portugal,clerical_support,2022,477.2,total
+2111,Romania,clerical_support,2022,363.9,total
+2112,Slovenia,clerical_support,2022,68.7,total
+2113,Finland,clerical_support,2022,121.9,total
+2114,Sweden,clerical_support,2022,260.5,total
+2115,Iceland,clerical_support,2022,7.1,total
+2116,Norway,clerical_support,2022,152.1,total
+2117,Switzerland,clerical_support,2022,522.8,total
+2118,United Kingdom,clerical_support,2022,,total
+2119,Montenegro,clerical_support,2022,,total
+2120,North Macedonia,clerical_support,2022,,total
+2121,Serbia,clerical_support,2022,241.5,total
+2122,Turkey,clerical_support,2022,,total
+2123,European Union,total,2022,81267.5,females
+2127,Belgium,total,2022,2069.4,females
+2128,Bulgaria,total,2022,1293.0,females
+2129,Czechia,total,2022,1954.2,females
+2130,Denmark,total,2022,1283.5,females
+2131,Germany (until 1990 former territory of the FRG),total,2022,18032.5,females
+2132,Estonia,total,2022,291.8,females
+2133,Ireland,total,2022,1059.8,females
+2134,Greece,total,2022,1266.7,females
+2135,Spain,total,2022,8087.1,females
+2136,France,total,2022,12214.1,females
+2137,Croatia,total,2022,708.3,females
+2138,Italy,total,2022,7895.8,females
+2139,Cyprus,total,2022,187.3,females
+2140,Latvia,total,2022,371.4,females
+2141,Lithuania,total,2022,596.4,females
+2142,Luxembourg,total,2022,128.8,females
+2143,Hungary,total,2022,1942.3,females
+2144,Malta,total,2022,103.8,females
+2145,Netherlands,total,2022,3828.2,females
+2146,Austria,total,2022,1844.3,females
+2147,Poland,total,2022,6341.6,females
+2148,Portugal,total,2022,2101.3,females
+2149,Romania,total,2022,2898.5,females
+2150,Slovenia,total,2022,401.8,females
+2151,Slovakia,total,2022,1086.3,females
+2152,Finland,total,2022,1109.3,females
+2153,Sweden,total,2022,2170.0,females
+2154,Iceland,total,2022,83.7,females
+2155,Norway,total,2022,1245.1,females
+2156,Switzerland,total,2022,1860.6,females
+2157,United Kingdom,total,2022,,females
+2158,Montenegro,total,2022,,females
+2159,North Macedonia,total,2022,,females
+2160,Serbia,total,2022,1019.3,females
+2161,Turkey,total,2022,,females
+2162,European Union,managers,2022,2632.5,females
+2166,Belgium,managers,2022,112.4,females
+2167,Bulgaria,managers,2022,46.4,females
+2168,Czechia,managers,2022,67.1,females
+2169,Denmark,managers,2022,23.2,females
+2170,Germany (until 1990 former territory of the FRG),managers,2022,370.9,females
+2171,Estonia,managers,2022,19.9,females
+2172,Ireland,managers,2022,71.6,females
+2173,Greece,managers,2022,18.7,females
+2174,Spain,managers,2022,183.4,females
+2175,France,managers,2022,598.5,females
+2176,Croatia,managers,2022,7.1,females
+2177,Italy,managers,2022,65.0,females
+2178,Cyprus,managers,2022,3.7,females
+2179,Latvia,managers,2022,31.7,females
+2180,Lithuania,managers,2022,40.6,females
+2181,Luxembourg,managers,2022,2.3,females
+2182,Hungary,managers,2022,61.6,females
+2183,Malta,managers,2022,9.6,females
+2184,Netherlands,managers,2022,107.4,females
+2185,Austria,managers,2022,62.3,females
+2186,Poland,managers,2022,379.9,females
+2187,Portugal,managers,2022,72.8,females
+2188,Romania,managers,2022,64.4,females
+2189,Slovenia,managers,2022,12.4,females
+2190,Finland,managers,2022,19.0,females
+2191,Sweden,managers,2022,130.1,females
+2192,Iceland,managers,2022,9.1,females
+2193,Norway,managers,2022,70.4,females
+2194,Switzerland,managers,2022,88.2,females
+2195,United Kingdom,managers,2022,,females
+2196,Montenegro,managers,2022,,females
+2197,North Macedonia,managers,2022,,females
+2198,Serbia,managers,2022,19.9,females
+2199,Turkey,managers,2022,,females
+2200,European Union,professionals,2022,20558.2,females
+2204,Belgium,professionals,2022,613.1,females
+2205,Bulgaria,professionals,2022,336.0,females
+2206,Czechia,professionals,2022,415.9,females
+2207,Denmark,professionals,2022,418.1,females
+2208,Germany (until 1990 former territory of the FRG),professionals,2022,4216.4,females
+2209,Estonia,professionals,2022,96.9,females
+2210,Ireland,professionals,2022,315.0,females
+2211,Greece,professionals,2022,395.8,females
+2212,Spain,professionals,2022,2013.8,females
+2213,France,professionals,2022,2741.4,females
+2214,Croatia,professionals,2022,170.9,females
+2215,Italy,professionals,2022,1469.0,females
+2216,Cyprus,professionals,2022,44.8,females
+2217,Latvia,professionals,2022,108.5,females
+2218,Lithuania,professionals,2022,217.7,females
+2219,Luxembourg,professionals,2022,58.1,females
+2220,Hungary,professionals,2022,413.4,females
+2221,Malta,professionals,2022,27.0,females
+2222,Netherlands,professionals,2022,1160.4,females
+2223,Austria,professionals,2022,434.7,females
+2224,Poland,professionals,2022,1940.8,females
+2225,Portugal,professionals,2022,614.0,females
+2226,Romania,professionals,2022,809.0,females
+2227,Slovenia,professionals,2022,141.6,females
+2228,Slovakia,professionals,2022,219.3,females
+2229,Finland,professionals,2022,299.6,females
+2230,Sweden,professionals,2022,867.0,females
+2231,Iceland,professionals,2022,28.0,females
+2232,Norway,professionals,2022,450.1,females
+2233,Switzerland,professionals,2022,529.3,females
+2234,United Kingdom,professionals,2022,,females
+2235,Montenegro,professionals,2022,,females
+2236,North Macedonia,professionals,2022,,females
+2237,Serbia,professionals,2022,230.7,females
+2238,Turkey,professionals,2022,,females
+2239,European Union,technicians,2022,14747.1,females
+2243,Belgium,technicians,2022,336.9,females
+2244,Bulgaria,technicians,2022,121.0,females
+2245,Czechia,technicians,2022,318.8,females
+2246,Denmark,technicians,2022,212.9,females
+2247,Germany (until 1990 former territory of the FRG),technicians,2022,4448.2,females
+2248,Estonia,technicians,2022,48.6,females
+2249,Ireland,technicians,2022,145.8,females
+2250,Greece,technicians,2022,109.6,females
+2251,Spain,technicians,2022,812.6,females
+2252,France,technicians,2022,2636.4,females
+2253,Croatia,technicians,2022,109.5,females
+2254,Italy,technicians,2022,1313.4,females
+2255,Cyprus,technicians,2022,25.3,females
+2256,Latvia,technicians,2022,63.1,females
+2257,Lithuania,technicians,2022,62.1,females
+2258,Luxembourg,technicians,2022,26.0,females
+2259,Hungary,technicians,2022,413.1,females
+2260,Malta,technicians,2022,12.6,females
+2261,Netherlands,technicians,2022,766.3,females
+2262,Austria,technicians,2022,329.9,females
+2263,Poland,technicians,2022,1037.4,females
+2264,Portugal,technicians,2022,239.8,females
+2265,Romania,technicians,2022,273.3,females
+2266,Slovenia,technicians,2022,67.3,females
+2267,Slovakia,technicians,2022,192.8,females
+2268,Finland,technicians,2022,253.4,females
+2269,Sweden,technicians,2022,370.7,females
+2270,Iceland,technicians,2022,12.9,females
+2271,Norway,technicians,2022,163.5,females
+2272,Switzerland,technicians,2022,343.0,females
+2273,United Kingdom,technicians,2022,,females
+2274,Montenegro,technicians,2022,,females
+2275,North Macedonia,technicians,2022,,females
+2276,Serbia,technicians,2022,166.0,females
+2277,Turkey,technicians,2022,,females
+2278,European Union,clerical_support,2022,12686.4,females
+2282,Belgium,clerical_support,2022,370.3,females
+2283,Bulgaria,clerical_support,2022,127.1,females
+2284,Czechia,clerical_support,2022,326.4,females
+2285,Denmark,clerical_support,2022,108.1,females
+2286,Germany (until 1990 former territory of the FRG),clerical_support,2022,3450.9,females
+2287,Estonia,clerical_support,2022,26.2,females
+2288,Ireland,clerical_support,2022,156.5,females
+2289,Greece,clerical_support,2022,272.7,females
+2290,Spain,clerical_support,2022,1369.4,females
+2291,France,clerical_support,2022,1745.4,females
+2292,Croatia,clerical_support,2022,104.1,females
+2293,Italy,clerical_support,2022,1730.9,females
+2294,Cyprus,clerical_support,2022,36.0,females
+2295,Latvia,clerical_support,2022,27.9,females
+2296,Lithuania,clerical_support,2022,48.4,females
+2297,Luxembourg,clerical_support,2022,10.1,females
+2298,Hungary,clerical_support,2022,246.5,females
+2299,Malta,clerical_support,2022,16.3,females
+2300,Netherlands,clerical_support,2022,473.7,females
+2301,Austria,clerical_support,2022,288.2,females
+2302,Poland,clerical_support,2022,710.0,females
+2303,Portugal,clerical_support,2022,336.0,females
+2304,Romania,clerical_support,2022,231.0,females
+2305,Slovenia,clerical_support,2022,41.7,females
+2306,Finland,clerical_support,2022,87.1,females
+2307,Sweden,clerical_support,2022,157.0,females
+2308,Iceland,clerical_support,2022,4.7,females
+2309,Norway,clerical_support,2022,85.6,females
+2310,Switzerland,clerical_support,2022,318.6,females
+2311,United Kingdom,clerical_support,2022,,females
+2312,Montenegro,clerical_support,2022,,females
+2313,North Macedonia,clerical_support,2022,,females
+2314,Serbia,clerical_support,2022,140.4,females
+2315,Turkey,clerical_support,2022,,females

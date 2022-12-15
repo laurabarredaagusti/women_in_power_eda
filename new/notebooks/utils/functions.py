@@ -1,2 +1,0 @@
-def getHello():
-    print('Hello')
